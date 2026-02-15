@@ -1,0 +1,2285 @@
+{
+  "config": {
+    "id": "36a3b0b5-bad0-4a04-b79b-441c7cef77db",
+    "label": "BetterBibTeX JSON",
+    "preferences": {
+      "ascii": "",
+      "asciiBibLaTeX": false,
+      "asciiBibTeX": true,
+      "autoAbbrev": false,
+      "autoExport": "immediate",
+      "autoExportDelay": 5,
+      "autoExportIdleWait": 10,
+      "autoExportPathReplaceDiacritics": false,
+      "autoExportPathReplaceDirSep": "-",
+      "autoExportPathReplaceSpace": " ",
+      "automaticTags": true,
+      "autoPinDelay": 0,
+      "auxImport": false,
+      "baseAttachmentPath": "C:\\Users\\joshua\\Documents\\Bibliography",
+      "biblatexExtendedDateFormat": true,
+      "biblatexExtendedNameFormat": true,
+      "biblatexExtractEprint": true,
+      "biblatexUsePrefix": true,
+      "bibtexEditionOrdinal": false,
+      "bibtexParticleNoOp": false,
+      "bibtexURL": "off",
+      "cache": true,
+      "cacheDelete": false,
+      "charmap": "",
+      "chinese": false,
+      "chineseSplitName": true,
+      "citeCommand": "cite",
+      "citekeyCaseInsensitive": true,
+      "citekeyFold": true,
+      "citekeyFormat": "auth.lower + \"_\" + title.nopunct.skipwords.select(1, 1).lower + \"-\" + title.nopunct.skipwords.select(2, 1).lower + \"_\" + year",
+      "citekeySearch": true,
+      "citekeyUnsafeChars": "\\\"#%'(),={}~",
+      "csquotes": "",
+      "DOIandURL": "doi",
+      "exportBibTeXStrings": "off",
+      "exportBraceProtection": true,
+      "exportSort": "citekey",
+      "exportTitleCase": true,
+      "extraMergeCitekeys": false,
+      "extraMergeCSL": false,
+      "extraMergeTeX": false,
+      "git": "config",
+      "import": true,
+      "importBibTeXStrings": true,
+      "importCaseProtection": "as-needed",
+      "importCitationKey": true,
+      "importDetectURLs": true,
+      "importExtra": true,
+      "importJabRefAbbreviations": true,
+      "importJabRefStrings": true,
+      "importNoteToExtra": "",
+      "importPlaceEvent": "inproceedings,conference,presentation,talk",
+      "importSentenceCase": "on+guess",
+      "importSentenceCaseQuoted": true,
+      "importUnknownTexCommand": "ignore",
+      "itemObserverDelay": 5,
+      "jabrefFormat": 0,
+      "japanese": false,
+      "keyConflictPolicy": "keep",
+      "keyScope": "library",
+      "language": "langid",
+      "mapMath": "",
+      "mapText": "",
+      "packages": "",
+      "parseParticles": true,
+      "patchDates": "dateadded=dateAdded, date-added=dateAdded, datemodified=dateModified, date-modified=dateModified",
+      "postscript": "if (Translator.BetterTeX) {\n  const isWeb = (zotero.itemType === 'webpage') || (tex.entrytype === 'online')\n  const hasDOI = !!tex.has.doi\n  const hasPages = !!tex.has.pages || !!tex.has.pagetotal\n\n  if (!isWeb && (hasDOI || hasPages)) {\n    if (tex.has.url) tex.remove('url')\n    if (tex.has.urldate) tex.remove('urldate')\n  }\n}\n",
+      "postscriptOverride": "",
+      "preferencesOverride": "",
+      "qualityReport": false,
+      "quickCopyEta": "",
+      "quickCopyMode": "latex",
+      "quickCopyOrgMode": "zotero",
+      "quickCopyPandocBrackets": false,
+      "quickCopySelectLink": "zotero",
+      "rawImports": false,
+      "rawLaTag": "#LaTeX",
+      "relativeFilePaths": false,
+      "separatorList": "and",
+      "separatorNames": "and",
+      "skipFields": "file, abstract, keywords, annote, note, urldate",
+      "skipWords": "a,ab,aboard,about,above,across,after,against,al,along,amid,among,an,and,anti,around,as,at,before,behind,below,beneath,beside,besides,between,beyond,but,by,d,da,das,de,del,dell,dello,dei,degli,della,dell,delle,dem,den,der,des,despite,die,do,down,du,during,ein,eine,einem,einen,einer,eines,el,en,et,except,for,from,gli,i,il,in,inside,into,is,l,la,las,le,les,like,lo,los,near,nor,of,off,on,onto,or,over,past,per,plus,round,save,since,so,some,sur,than,the,through,to,toward,towards,un,una,unas,under,underneath,une,unlike,uno,unos,until,up,upon,versus,via,von,while,with,within,without,yet,zu,zum",
+      "startupProgress": "popup",
+      "strings": "",
+      "stringsOverride": "",
+      "verbatimFields": "url,doi,file,pdf,ids,eprint,/^verb[a-z]$/,groups,/^citeulike-linkout-[0-9]+$/, /^bdsk-url-[0-9]+$/, keywords",
+      "warnBulkModify": 10,
+      "warnTitleCased": false
+    },
+    "options": {
+      "Items": true,
+      "Normalize": false,
+      "Preferences": true,
+      "exportFileData": false,
+      "exportNotes": true,
+      "keepUpdated": false,
+      "worker": true
+    }
+  },
+  "version": {
+    "zotero": "7.0.30",
+    "bbt": "7.0.76"
+  },
+  "collections": {
+    "PTR9REJZ": {
+      "key": "PTR9REJZ",
+      "parent": "",
+      "name": "DETR",
+      "collections": [],
+      "items": []
+    },
+    "UELN76VQ": {
+      "key": "UELN76VQ",
+      "parent": "",
+      "name": "MuckSeg-V2",
+      "collections": [],
+      "items": []
+    }
+  },
+  "items": [
+    {
+      "key": "7MMHBDHI",
+      "version": 58,
+      "itemType": "note",
+      "note": "<h1>Welcome to Better Notes</h1>\n<p>This note is created by the Better Notes user guide.\nYou can always run the user guide again from menu Help -&gt; Better Notes User Guide.</p>\n<h2>📝 Introduction</h2>\n<blockquote>\n<p>Everything about note management. All in Zotero.</p>\n</blockquote>\n<p>Better Notes (BN) is a plugin for <a href=\"https://zotero.org\">Zotero</a>.</p>\n<p>BN streamlines your workflows of:</p>\n<ul>\n<li><span>paper reading</span></li>\n<li><span>annotating</span></li>\n<li><span>note taking</span></li>\n<li><span>metadata analyzing</span></li>\n<li><span>knowledge exporting</span></li>\n<li><span>AI writing assistant</span></li>\n</ul>\n<p>and:</p>\n<ul>\n<li><span>works out of the box</span></li>\n<li><span>highly customizable</span></li>\n<li><span>all in Zotero</span></li>\n</ul>\n<h2>🚀 Get Started</h2>\n<p>See the <a href=\"https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-quick-start\">Quick Start Guide</a> to get started.</p>\n<h2>📚 Resources</h2>\n<p>You can find more information in the following links:</p>\n<ul>\n<li><a href=\"https://github.com/windingwind/zotero-better-notes\">Documentation</a></li>\n<li><a href=\"https://github.com/windingwind/zotero-better-notes/issues\">Issues</a></li>\n<li><a href=\"https://github.com/windingwind/zotero-better-notes/discussions\">Discussions</a></li>\n<li><a href=\"https://github.com/windingwind/zotero-better-notes?tab=readme-ov-file#-api\">API</a></li>\n</ul>",
+      "tags": [],
+      "collections": [],
+      "relations": {},
+      "dateAdded": "2026-01-13T05:26:29Z",
+      "dateModified": "2026-01-13T05:26:29Z",
+      "uri": "http://zotero.org/users/18822313/items/7MMHBDHI",
+      "itemID": 170,
+      "itemKey": "7MMHBDHI",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/7MMHBDHI"
+    },
+    {
+      "key": "EIMSDEU3",
+      "version": 3,
+      "itemType": "conferencePaper",
+      "title": "End-to-End Object Detection with Transformers",
+      "abstractNote": "We present a new method that views object detection as a direct set prediction problem. Our approach streamlines the detection pipeline, effectively removing the need for many hand-designed components like a non-maximum suppression procedure or anchor generation that explicitly encode our prior knowledge about the task. The main ingredients of the new framework, called DEtection TRansformer or DETR, are a set-based global loss that forces unique predictions via bipartite matching, and a transformer encoder-decoder architecture. Given a fixed small set of learned object queries, DETR reasons about the relations of the objects and the global image context to directly output the final set of predictions in parallel. The new model is conceptually simple and does not require a specialized library, unlike many other modern detectors. DETR demonstrates accuracy and run-time performance on par with the well-established and highly-optimized Faster R-CNN baseline on the challenging COCO object detection dataset. Moreover, DETR can be easily generalized to produce panoptic segmentation in a unified manner. We show that it significantly outperforms competitive baselines. Training code and pretrained models are available at https://github.com/facebookresearch/detr.",
+      "date": "2020",
+      "language": "en",
+      "libraryCatalog": "Springer Link",
+      "extra": "TLDR: This work presents a new method that views object detection as a direct set prediction problem, and demonstrates accuracy and run-time performance on par with the well-established and highly-optimized Faster RCNN baseline on the challenging COCO object detection dataset.",
+      "place": "Cham",
+      "publisher": "Springer International Publishing",
+      "ISBN": "978-3-030-58452-8",
+      "pages": "213-229",
+      "proceedingsTitle": "Computer Vision – ECCV 2020",
+      "DOI": "10.1007/978-3-030-58452-8_13",
+      "creators": [
+        {
+          "firstName": "Nicolas",
+          "lastName": "Carion",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Francisco",
+          "lastName": "Massa",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gabriel",
+          "lastName": "Synnaeve",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Nicolas",
+          "lastName": "Usunier",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Alexander",
+          "lastName": "Kirillov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Sergey",
+          "lastName": "Zagoruyko",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Andrea",
+          "lastName": "Vedaldi",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Horst",
+          "lastName": "Bischof",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Thomas",
+          "lastName": "Brox",
+          "creatorType": "editor"
+        },
+        {
+          "firstName": "Jan-Michael",
+          "lastName": "Frahm",
+          "creatorType": "editor"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:42:32Z",
+      "dateModified": "2026-01-04T12:35:07Z",
+      "uri": "http://zotero.org/users/18822313/items/EIMSDEU3",
+      "itemID": 92,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Carion 等 - 2020 - End-to-End Object Detection with Transformers.pdf",
+          "url": "https://link.springer.com/content/pdf/10.1007%2F978-3-030-58452-8_13.pdf",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2020\\carion_endtoend-object_2020\\Carion 等 - 2020 - End-to-End Object Detection with Transformers.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:42:35Z",
+          "dateModified": "2026-01-03T14:42:35Z",
+          "uri": "http://zotero.org/users/18822313/items/ZEY2RXUE",
+          "select": "zotero://select/library/items/ZEY2RXUE"
+        }
+      ],
+      "notes": [],
+      "citationKey": "carion_endtoend-object_2020",
+      "itemKey": "EIMSDEU3",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/EIMSDEU3"
+    },
+    {
+      "key": "8838AH6P",
+      "version": 3,
+      "itemType": "preprint",
+      "title": "LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection",
+      "abstractNote": "In this paper, we present a light-weight detection transformer, LW-DETR, which outperforms YOLOs for real-time object detection. The architecture is a simple stack of a ViT encoder, a projector, and a shallow DETR decoder. Our approach leverages recent advanced techniques, such as training-effective techniques, e.g., improved loss and pretraining, and interleaved window and global attentions for reducing the ViT encoder complexity. We improve the ViT encoder by aggregating multi-level feature maps, and the intermediate and final feature maps in the ViT encoder, forming richer feature maps, and introduce window-major feature map organization for improving the efficiency of interleaved attention computation. Experimental results demonstrate that the proposed approach is superior over existing real-time detectors, e.g., YOLO and its variants, on COCO and other benchmark datasets. Code and models are available at (https://github.com/Atten4Vis/LW-DETR).",
+      "date": "2024-06-05",
+      "shortTitle": "LW-DETR",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2406.03459",
+      "accessDate": "2026-01-03T14:42:50Z",
+      "extra": "arXiv:2406.03459 [cs]\nTLDR: This paper improves the ViT encoder by aggregating multi-level feature maps, and the intermediate and final feature maps in the ViT encoder, forming richer feature maps, and introduces window-major feature map organization for improving the efficiency of interleaved attention computation.",
+      "DOI": "10.48550/arXiv.2406.03459",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2406.03459",
+      "creators": [
+        {
+          "firstName": "Qiang",
+          "lastName": "Chen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xiangbo",
+          "lastName": "Su",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xinyu",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jian",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jiahui",
+          "lastName": "Chen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yunpeng",
+          "lastName": "Shen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chuchu",
+          "lastName": "Han",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ziliang",
+          "lastName": "Chen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Weixiang",
+          "lastName": "Xu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Fanrong",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shan",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kun",
+          "lastName": "Yao",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Errui",
+          "lastName": "Ding",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gang",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jingdong",
+          "lastName": "Wang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:42:50Z",
+      "dateModified": "2026-01-04T12:35:04Z",
+      "uri": "http://zotero.org/users/18822313/items/8838AH6P",
+      "itemID": 94,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Chen 等 - 2024 - LW-DETR A Transformer Replacement to YOLO for Real-Time Detection.pdf",
+          "url": "http://arxiv.org/pdf/2406.03459v1",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2024\\chen_lwdetr-transformer_2024\\Chen 等 - 2024 - LW-DETR A Transformer Replacement to YOLO for Real-Time Detection.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:42:51Z",
+          "dateModified": "2026-01-03T14:42:51Z",
+          "uri": "http://zotero.org/users/18822313/items/EWGE865Z",
+          "select": "zotero://select/library/items/EWGE865Z"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2406.03459",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:42:53Z",
+          "dateModified": "2026-01-03T14:42:53Z",
+          "uri": "http://zotero.org/users/18822313/items/RMW324UH",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\RMW324UH\\2406.html",
+          "select": "zotero://select/library/items/RMW324UH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "chen_lwdetr-transformer_2024",
+      "itemKey": "8838AH6P",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8838AH6P"
+    },
+    {
+      "key": "4IUAXCCZ",
+      "version": 9,
+      "itemType": "preprint",
+      "title": "Joint Perceptual Learning for Enhancement and Object Detection in Underwater Scenarios",
+      "abstractNote": "Underwater degraded images greatly challenge existing algorithms to detect objects of interest. Recently, researchers attempt to adopt attention mechanisms or composite connections for improving the feature representation of detectors. However, this solution does \\textit{not} eliminate the impact of degradation on image content such as color and texture, achieving minimal improvements. Another feasible solution for underwater object detection is to develop sophisticated deep architectures in order to enhance image quality or features. Nevertheless, the visually appealing output of these enhancement modules do \\textit{not} necessarily generate high accuracy for deep detectors. More recently, some multi-task learning methods jointly learn underwater detection and image enhancement, accessing promising improvements. Typically, these methods invoke huge architecture and expensive computations, rendering inefficient inference. Definitely, underwater object detection and image enhancement are two interrelated tasks. Leveraging information coming from the two tasks can benefit each task. Based on these factual opinions, we propose a bilevel optimization formulation for jointly learning underwater object detection and image enhancement, and then unroll to a dual perception network (DPNet) for the two tasks. DPNet with one shared module and two task subnets learns from the two different tasks, seeking a shared representation. The shared representation provides more structural details for image enhancement and rich content information for object detection. Finally, we derive a cooperative training strategy to optimize parameters for DPNet. Extensive experiments on real-world and synthetic underwater datasets demonstrate that our method outputs visually favoring images and higher detection accuracy.",
+      "date": "2023-07-07",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2307.03536",
+      "accessDate": "2026-01-03T14:47:19Z",
+      "extra": "arXiv:2307.03536 [cs]\nTLDR: This work proposes a bilevel optimization formulation for jointly learning underwater object detection and image enhancement, and then unroll to a dual perception network (DPNet) for the two tasks.",
+      "DOI": "10.48550/arXiv.2307.03536",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2307.03536",
+      "creators": [
+        {
+          "firstName": "Chenping",
+          "lastName": "Fu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Wanqi",
+          "lastName": "Yuan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jiewen",
+          "lastName": "Xiao",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Risheng",
+          "lastName": "Liu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xin",
+          "lastName": "Fan",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:47:19Z",
+      "dateModified": "2026-01-04T12:35:04Z",
+      "uri": "http://zotero.org/users/18822313/items/4IUAXCCZ",
+      "itemID": 155,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Fu 等 - 2023 - Joint Perceptual Learning for Enhancement and Object Detection in Underwater Scenarios.pdf",
+          "url": "http://arxiv.org/pdf/2307.03536v1",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2023\\fu_joint-perceptual_2023\\Fu 等 - 2023 - Joint Perceptual Learning for Enhancement and Object Detection in Underwater Scenarios.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:23Z",
+          "dateModified": "2026-01-03T14:47:24Z",
+          "uri": "http://zotero.org/users/18822313/items/E39GK2KW",
+          "select": "zotero://select/library/items/E39GK2KW"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2307.03536",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:23Z",
+          "dateModified": "2026-01-03T14:47:23Z",
+          "uri": "http://zotero.org/users/18822313/items/FBSSAXXH",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\FBSSAXXH\\2307.html",
+          "select": "zotero://select/library/items/FBSSAXXH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "fu_joint-perceptual_2023",
+      "itemKey": "4IUAXCCZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/4IUAXCCZ"
+    },
+    {
+      "key": "RJA6QQZY",
+      "version": 4,
+      "itemType": "preprint",
+      "title": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising",
+      "abstractNote": "We present in this paper a novel denoising training method to speedup DETR (DEtection TRansformer) training and offer a deepened understanding of the slow convergence issue of DETR-like methods. We show that the slow convergence results from the instability of bipartite graph matching which causes inconsistent optimization goals in early training stages. To address this issue, except for the Hungarian loss, our method additionally feeds ground-truth bounding boxes with noises into Transformer decoder and trains the model to reconstruct the original boxes, which effectively reduces the bipartite graph matching difficulty and leads to a faster convergence. Our method is universal and can be easily plugged into any DETR-like methods by adding dozens of lines of code to achieve a remarkable improvement. As a result, our DN-DETR results in a remarkable improvement ($+1.9$AP) under the same setting and achieves the best result (AP $43.4$ and $48.6$ with $12$ and $50$ epochs of training respectively) among DETR-like methods with ResNet-$50$ backbone. Compared with the baseline under the same setting, DN-DETR achieves comparable performance with $50\\%$ training epochs. Code is available at \\url{https://github.com/FengLi-ust/DN-DETR}.",
+      "date": "2022-12-08",
+      "shortTitle": "DN-DETR",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2203.01305",
+      "accessDate": "2026-01-03T14:43:15Z",
+      "extra": "arXiv:2203.01305 [cs]",
+      "DOI": "10.48550/arXiv.2203.01305",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2203.01305",
+      "creators": [
+        {
+          "firstName": "Feng",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hao",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shilong",
+          "lastName": "Liu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jian",
+          "lastName": "Guo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lionel M.",
+          "lastName": "Ni",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lei",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:43:15Z",
+      "dateModified": "2026-01-04T12:35:02Z",
+      "uri": "http://zotero.org/users/18822313/items/RJA6QQZY",
+      "itemID": 105,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Li 等 - 2022 - DN-DETR Accelerate DETR Training by Introducing Query DeNoising.pdf",
+          "url": "http://arxiv.org/pdf/2203.01305v3",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2022\\li_dndetr-accelerate_2022\\Li 等 - 2022 - DN-DETR Accelerate DETR Training by Introducing Query DeNoising.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:17Z",
+          "dateModified": "2026-01-03T14:43:17Z",
+          "uri": "http://zotero.org/users/18822313/items/6FXUAVZ5",
+          "select": "zotero://select/library/items/6FXUAVZ5"
+        }
+      ],
+      "notes": [
+        {
+          "key": "DCAFTH2D",
+          "version": 4,
+          "itemType": "note",
+          "parentItem": "RJA6QQZY",
+          "note": "Comment: Extended version from CVPR 2022",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:15Z",
+          "dateModified": "2026-01-03T14:43:15Z",
+          "uri": "http://zotero.org/users/18822313/items/DCAFTH2D"
+        }
+      ],
+      "citationKey": "li_dndetr-accelerate_2022",
+      "itemKey": "RJA6QQZY",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/RJA6QQZY"
+    },
+    {
+      "key": "3UCLZV7M",
+      "version": 4,
+      "itemType": "preprint",
+      "title": "Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers",
+      "abstractNote": "Panoptic segmentation involves a combination of joint semantic segmentation and instance segmentation, where image contents are divided into two types: things and stuff. We present Panoptic SegFormer, a general framework for panoptic segmentation with transformers. It contains three innovative components: an efficient deeply-supervised mask decoder, a query decoupling strategy, and an improved post-processing method. We also use Deformable DETR to efficiently process multi-scale features, which is a fast and efficient version of DETR. Specifically, we supervise the attention modules in the mask decoder in a layer-wise manner. This deep supervision strategy lets the attention modules quickly focus on meaningful semantic regions. It improves performance and reduces the number of required training epochs by half compared to Deformable DETR. Our query decoupling strategy decouples the responsibilities of the query set and avoids mutual interference between things and stuff. In addition, our post-processing strategy improves performance without additional costs by jointly considering classification and segmentation qualities to resolve conflicting mask overlaps. Our approach increases the accuracy 6.2\\% PQ over the baseline DETR model. Panoptic SegFormer achieves state-of-the-art results on COCO test-dev with 56.2\\% PQ. It also shows stronger zero-shot robustness over existing methods. The code is released at \\url{https://github.com/zhiqi-li/Panoptic-SegFormer}.",
+      "date": "2022-03-18",
+      "shortTitle": "Panoptic SegFormer",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2109.03814",
+      "accessDate": "2026-01-03T14:43:21Z",
+      "extra": "arXiv:2109.03814 [cs]",
+      "DOI": "10.48550/arXiv.2109.03814",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2109.03814",
+      "creators": [
+        {
+          "firstName": "Zhiqi",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Wenhai",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Enze",
+          "lastName": "Xie",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhiding",
+          "lastName": "Yu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Anima",
+          "lastName": "Anandkumar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jose M.",
+          "lastName": "Alvarez",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ping",
+          "lastName": "Luo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tong",
+          "lastName": "Lu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:43:22Z",
+      "dateModified": "2026-01-04T12:35:04Z",
+      "uri": "http://zotero.org/users/18822313/items/3UCLZV7M",
+      "itemID": 108,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Li 等 - 2022 - Panoptic SegFormer Delving Deeper into Panoptic Segmentation with Transformers.pdf",
+          "url": "http://arxiv.org/pdf/2109.03814v4",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2022\\li_panoptic-segformer_2022\\Li 等 - 2022 - Panoptic SegFormer Delving Deeper into Panoptic Segmentation with Transformers.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:25Z",
+          "dateModified": "2026-01-03T14:43:26Z",
+          "uri": "http://zotero.org/users/18822313/items/MYZZATVQ",
+          "select": "zotero://select/library/items/MYZZATVQ"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2109.03814",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:26Z",
+          "dateModified": "2026-01-03T14:43:26Z",
+          "uri": "http://zotero.org/users/18822313/items/L555XNH3",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\L555XNH3\\2109.html",
+          "select": "zotero://select/library/items/L555XNH3"
+        }
+      ],
+      "notes": [
+        {
+          "key": "33IWDEQE",
+          "version": 5,
+          "itemType": "note",
+          "parentItem": "3UCLZV7M",
+          "note": "Comment: Accepted to CVPR 2022",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:22Z",
+          "dateModified": "2026-01-03T14:43:22Z",
+          "uri": "http://zotero.org/users/18822313/items/33IWDEQE"
+        }
+      ],
+      "citationKey": "li_panoptic-segformer_2022",
+      "itemKey": "3UCLZV7M",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/3UCLZV7M"
+    },
+    {
+      "key": "IY3FMWQM",
+      "version": 5,
+      "itemType": "preprint",
+      "title": "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR",
+      "abstractNote": "We present in this paper a novel query formulation using dynamic anchor boxes for DETR (DEtection TRansformer) and offer a deeper understanding of the role of queries in DETR. This new formulation directly uses box coordinates as queries in Transformer decoders and dynamically updates them layer-by-layer. Using box coordinates not only helps using explicit positional priors to improve the query-to-feature similarity and eliminate the slow training convergence issue in DETR, but also allows us to modulate the positional attention map using the box width and height information. Such a design makes it clear that queries in DETR can be implemented as performing soft ROI pooling layer-by-layer in a cascade manner. As a result, it leads to the best performance on MS-COCO benchmark among the DETR-like detection models under the same setting, e.g., AP 45.7\\% using ResNet50-DC5 as backbone trained in 50 epochs. We also conducted extensive experiments to confirm our analysis and verify the effectiveness of our methods. Code is available at \\url{https://github.com/SlongLiu/DAB-DETR}.",
+      "date": "2022-03-30",
+      "shortTitle": "DAB-DETR",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2201.12329",
+      "accessDate": "2026-01-03T14:43:30Z",
+      "extra": "arXiv:2201.12329 [cs]",
+      "DOI": "10.48550/arXiv.2201.12329",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2201.12329",
+      "creators": [
+        {
+          "firstName": "Shilong",
+          "lastName": "Liu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Feng",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hao",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xiao",
+          "lastName": "Yang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xianbiao",
+          "lastName": "Qi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hang",
+          "lastName": "Su",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jun",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lei",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:43:30Z",
+      "dateModified": "2026-01-04T12:35:05Z",
+      "uri": "http://zotero.org/users/18822313/items/IY3FMWQM",
+      "itemID": 112,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Liu 等 - 2022 - DAB-DETR Dynamic Anchor Boxes are Better Queries for DETR.pdf",
+          "url": "http://arxiv.org/pdf/2201.12329v4",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2022\\liu_dabdetr-dynamic_2022\\Liu 等 - 2022 - DAB-DETR Dynamic Anchor Boxes are Better Queries for DETR.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:31Z",
+          "dateModified": "2026-01-03T14:43:31Z",
+          "uri": "http://zotero.org/users/18822313/items/39KG9BMT",
+          "select": "zotero://select/library/items/39KG9BMT"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2201.12329",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:32Z",
+          "dateModified": "2026-01-03T14:43:32Z",
+          "uri": "http://zotero.org/users/18822313/items/E9WVEIHL",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\E9WVEIHL\\2201.html",
+          "select": "zotero://select/library/items/E9WVEIHL"
+        }
+      ],
+      "notes": [
+        {
+          "key": "L7UH9D4Y",
+          "version": 5,
+          "itemType": "note",
+          "parentItem": "IY3FMWQM",
+          "note": "Comment: Accepted to ICLR 2022",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:30Z",
+          "dateModified": "2026-01-03T14:43:30Z",
+          "uri": "http://zotero.org/users/18822313/items/L7UH9D4Y"
+        }
+      ],
+      "citationKey": "liu_dabdetr-dynamic_2022",
+      "itemKey": "IY3FMWQM",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/IY3FMWQM"
+    },
+    {
+      "key": "WRJ4MCHE",
+      "version": 3,
+      "itemType": "conferencePaper",
+      "title": "Conditional DETR for Fast Training Convergence",
+      "date": "2021",
+      "language": "en",
+      "libraryCatalog": "openaccess.thecvf.com",
+      "url": "https://openaccess.thecvf.com/content/ICCV2021/html/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.html",
+      "accessDate": "2026-01-03T14:42:22Z",
+      "pages": "3651-3660",
+      "conferenceName": "Proceedings of the IEEE/CVF International Conference on Computer Vision",
+      "creators": [
+        {
+          "firstName": "Depu",
+          "lastName": "Meng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xiaokang",
+          "lastName": "Chen",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zejia",
+          "lastName": "Fan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Gang",
+          "lastName": "Zeng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Houqiang",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yuhui",
+          "lastName": "Yuan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lei",
+          "lastName": "Sun",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jingdong",
+          "lastName": "Wang",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:42:22Z",
+      "dateModified": "2026-01-04T12:35:08Z",
+      "uri": "http://zotero.org/users/18822313/items/WRJ4MCHE",
+      "itemID": 90,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Meng 等 - 2021 - Conditional DETR for Fast Training Convergence.pdf",
+          "url": "https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.pdf",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2021\\meng_conditional-detr_2021\\Meng 等 - 2021 - Conditional DETR for Fast Training Convergence.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:42:27Z",
+          "dateModified": "2026-01-03T14:42:27Z",
+          "uri": "http://zotero.org/users/18822313/items/9S5WIVM9",
+          "select": "zotero://select/library/items/9S5WIVM9"
+        }
+      ],
+      "notes": [],
+      "citationKey": "meng_conditional-detr_2021",
+      "itemKey": "WRJ4MCHE",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/WRJ4MCHE"
+    },
+    {
+      "key": "NSDQVWVD",
+      "version": 5,
+      "itemType": "preprint",
+      "title": "An End-to-End Transformer Model for 3D Object Detection",
+      "abstractNote": "We propose 3DETR, an end-to-end Transformer based object detection model for 3D point clouds. Compared to existing detection methods that employ a number of 3D-specific inductive biases, 3DETR requires minimal modifications to the vanilla Transformer block. Specifically, we find that a standard Transformer with non-parametric queries and Fourier positional embeddings is competitive with specialized architectures that employ libraries of 3D-specific operators with hand-tuned hyperparameters. Nevertheless, 3DETR is conceptually simple and easy to implement, enabling further improvements by incorporating 3D domain knowledge. Through extensive experiments, we show 3DETR outperforms the well-established and highly optimized VoteNet baselines on the challenging ScanNetV2 dataset by 9.5%. Furthermore, we show 3DETR is applicable to 3D tasks beyond detection, and can serve as a building block for future research.",
+      "date": "2021-09-16",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2109.08141",
+      "accessDate": "2026-01-03T14:43:35Z",
+      "extra": "arXiv:2109.08141 [cs]",
+      "DOI": "10.48550/arXiv.2109.08141",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2109.08141",
+      "creators": [
+        {
+          "firstName": "Ishan",
+          "lastName": "Misra",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Rohit",
+          "lastName": "Girdhar",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Armand",
+          "lastName": "Joulin",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:43:35Z",
+      "dateModified": "2026-01-04T12:35:02Z",
+      "uri": "http://zotero.org/users/18822313/items/NSDQVWVD",
+      "itemID": 116,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Misra 等 - 2021 - An End-to-End Transformer Model for 3D Object Detection.pdf",
+          "url": "http://arxiv.org/pdf/2109.08141v1",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2021\\misra_endtoend-transformer_2021\\Misra 等 - 2021 - An End-to-End Transformer Model for 3D Object Detection.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:43Z",
+          "dateModified": "2026-01-03T14:43:44Z",
+          "uri": "http://zotero.org/users/18822313/items/9VI3ULD2",
+          "select": "zotero://select/library/items/9VI3ULD2"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2109.08141",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:43Z",
+          "dateModified": "2026-01-03T14:43:43Z",
+          "uri": "http://zotero.org/users/18822313/items/QAI36UPR",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\QAI36UPR\\2109.html",
+          "select": "zotero://select/library/items/QAI36UPR"
+        }
+      ],
+      "notes": [
+        {
+          "key": "YPL8KSNB",
+          "version": 6,
+          "itemType": "note",
+          "parentItem": "NSDQVWVD",
+          "note": "Comment: Accepted at ICCV 2021",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:35Z",
+          "dateModified": "2026-01-03T14:43:35Z",
+          "uri": "http://zotero.org/users/18822313/items/YPL8KSNB"
+        }
+      ],
+      "citationKey": "misra_endtoend-transformer_2021",
+      "itemKey": "NSDQVWVD",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/NSDQVWVD"
+    },
+    {
+      "key": "AJC3RTI6",
+      "version": 6,
+      "itemType": "preprint",
+      "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+      "abstractNote": "State-of-the-art object detection networks depend on region proposal algorithms to hypothesize object locations. Advances like SPPnet and Fast R-CNN have reduced the running time of these detection networks, exposing region proposal computation as a bottleneck. In this work, we introduce a Region Proposal Network (RPN) that shares full-image convolutional features with the detection network, thus enabling nearly cost-free region proposals. An RPN is a fully convolutional network that simultaneously predicts object bounds and objectness scores at each position. The RPN is trained end-to-end to generate high-quality region proposals, which are used by Fast R-CNN for detection. We further merge RPN and Fast R-CNN into a single network by sharing their convolutional features---using the recently popular terminology of neural networks with 'attention' mechanisms, the RPN component tells the unified network where to look. For the very deep VGG-16 model, our detection system has a frame rate of 5fps (including all steps) on a GPU, while achieving state-of-the-art object detection accuracy on PASCAL VOC 2007, 2012, and MS COCO datasets with only 300 proposals per image. In ILSVRC and COCO 2015 competitions, Faster R-CNN and RPN are the foundations of the 1st-place winning entries in several tracks. Code has been made publicly available.",
+      "date": "2016-01-06",
+      "shortTitle": "Faster R-CNN",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/1506.01497",
+      "accessDate": "2026-01-03T14:43:49Z",
+      "extra": "arXiv:1506.01497 [cs]",
+      "DOI": "10.48550/arXiv.1506.01497",
+      "repository": "arXiv",
+      "archiveID": "arXiv:1506.01497",
+      "creators": [
+        {
+          "firstName": "Shaoqing",
+          "lastName": "Ren",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kaiming",
+          "lastName": "He",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ross",
+          "lastName": "Girshick",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jian",
+          "lastName": "Sun",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:43:49Z",
+      "dateModified": "2026-01-04T12:35:05Z",
+      "uri": "http://zotero.org/users/18822313/items/AJC3RTI6",
+      "itemID": 120,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Ren 等 - 2016 - Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks.pdf",
+          "url": "http://arxiv.org/pdf/1506.01497v3",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2016\\ren_faster-rcnn_2016\\Ren 等 - 2016 - Faster R-CNN Towards Real-Time Object Detection with Region Proposal Networks.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:52Z",
+          "dateModified": "2026-01-03T14:43:53Z",
+          "uri": "http://zotero.org/users/18822313/items/LUSYJ964",
+          "select": "zotero://select/library/items/LUSYJ964"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/1506.01497",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:53Z",
+          "dateModified": "2026-01-03T14:43:53Z",
+          "uri": "http://zotero.org/users/18822313/items/W3728X8S",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\W3728X8S\\1506.html",
+          "select": "zotero://select/library/items/W3728X8S"
+        }
+      ],
+      "notes": [
+        {
+          "key": "HFZQZYEF",
+          "version": 6,
+          "itemType": "note",
+          "parentItem": "AJC3RTI6",
+          "note": "Comment: Extended tech report",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:49Z",
+          "dateModified": "2026-01-03T14:43:49Z",
+          "uri": "http://zotero.org/users/18822313/items/HFZQZYEF"
+        }
+      ],
+      "citationKey": "ren_faster-rcnn_2016",
+      "itemKey": "AJC3RTI6",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/AJC3RTI6"
+    },
+    {
+      "key": "SZ3GNWT9",
+      "version": 6,
+      "itemType": "preprint",
+      "title": "RF-DETR: Neural Architecture Search for Real-Time Detection Transformers",
+      "abstractNote": "Open-vocabulary detectors achieve impressive performance on COCO, but often fail to generalize to real-world datasets with out-of-distribution classes not typically found in their pre-training. Rather than simply fine-tuning a heavy-weight vision-language model (VLM) for new domains, we introduce RF-DETR, a light-weight specialist detection transformer that discovers accuracy-latency Pareto curves for any target dataset with weight-sharing neural architecture search (NAS). Our approach fine-tunes a pre-trained base network on a target dataset and evaluates thousands of network configurations with different accuracy-latency tradeoffs without re-training. Further, we revisit the \"tunable knobs\" for NAS to improve the transferability of DETRs to diverse target domains. Notably, RF-DETR significantly improves on prior state-of-the-art real-time methods on COCO and Roboflow100-VL. RF-DETR (nano) achieves 48.0 AP on COCO, beating D-FINE (nano) by 5.3 AP at similar latency, and RF-DETR (2x-large) outperforms GroundingDINO (tiny) by 1.2 AP on Roboflow100-VL while running 20x as fast. To the best of our knowledge, RF-DETR (2x-large) is the first real-time detector to surpass 60 AP on COCO. Our code is at https://github.com/roboflow/rf-detr",
+      "date": "2025-11-12",
+      "shortTitle": "RF-DETR",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2511.09554",
+      "accessDate": "2026-01-03T14:43:56Z",
+      "extra": "arXiv:2511.09554 [cs]\nTLDR: RF-DETR is introduced, a light-weight specialist detection transformer that discovers accuracy-latency Pareto curves for any target dataset with weight-sharing neural architecture search (NAS) and revisit the \"tunable knobs\" for NAS to improve the transferability of DETRs to diverse target domains.",
+      "DOI": "10.48550/arXiv.2511.09554",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2511.09554",
+      "creators": [
+        {
+          "firstName": "Isaac",
+          "lastName": "Robinson",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Peter",
+          "lastName": "Robicheaux",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Matvei",
+          "lastName": "Popov",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Deva",
+          "lastName": "Ramanan",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Neehar",
+          "lastName": "Peri",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:43:57Z",
+      "dateModified": "2026-01-04T12:35:05Z",
+      "uri": "http://zotero.org/users/18822313/items/SZ3GNWT9",
+      "itemID": 124,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Robinson 等 - 2025 - RF-DETR Neural Architecture Search for Real-Time Detection Transformers.pdf",
+          "url": "http://arxiv.org/pdf/2511.09554v1",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2025\\robinson_rfdetr-neural_2025\\Robinson 等 - 2025 - RF-DETR Neural Architecture Search for Real-Time Detection Transformers.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:02Z",
+          "dateModified": "2026-01-03T14:44:02Z",
+          "uri": "http://zotero.org/users/18822313/items/AJHT6UTC",
+          "select": "zotero://select/library/items/AJHT6UTC"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2511.09554",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:02Z",
+          "dateModified": "2026-01-03T14:44:02Z",
+          "uri": "http://zotero.org/users/18822313/items/29E5SNUB",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\29E5SNUB\\2511.html",
+          "select": "zotero://select/library/items/29E5SNUB"
+        }
+      ],
+      "notes": [
+        {
+          "key": "FE5YBUZB",
+          "version": 6,
+          "itemType": "note",
+          "parentItem": "SZ3GNWT9",
+          "note": "Comment: Project Page: https://rfdetr.roboflow.com/",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:57Z",
+          "dateModified": "2026-01-03T14:43:57Z",
+          "uri": "http://zotero.org/users/18822313/items/FE5YBUZB"
+        }
+      ],
+      "citationKey": "robinson_rfdetr-neural_2025",
+      "itemKey": "SZ3GNWT9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SZ3GNWT9"
+    },
+    {
+      "key": "29IBKEUR",
+      "version": 16,
+      "itemType": "preprint",
+      "title": "Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity",
+      "abstractNote": "DETR is the first end-to-end object detector using a transformer encoder-decoder architecture and demonstrates competitive performance but low computational efficiency on high resolution feature maps. The subsequent work, Deformable DETR, enhances the efficiency of DETR by replacing dense attention with deformable attention, which achieves 10x faster convergence and improved performance. Deformable DETR uses the multiscale feature to ameliorate performance, however, the number of encoder tokens increases by 20x compared to DETR, and the computation cost of the encoder attention remains a bottleneck. In our preliminary experiment, we observe that the detection performance hardly deteriorates even if only a part of the encoder token is updated. Inspired by this observation, we propose Sparse DETR that selectively updates only the tokens expected to be referenced by the decoder, thus help the model effectively detect objects. In addition, we show that applying an auxiliary detection loss on the selected tokens in the encoder improves the performance while minimizing computational overhead. We validate that Sparse DETR achieves better performance than Deformable DETR even with only 10% encoder tokens on the COCO dataset. Albeit only the encoder tokens are sparsified, the total computation cost decreases by 38% and the frames per second (FPS) increases by 42% compared to Deformable DETR. Code is available at https://github.com/kakaobrain/sparse-detr",
+      "date": "2022-03-04",
+      "language": "en-US",
+      "shortTitle": "Sparse DETR",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2111.14330",
+      "accessDate": "2026-01-03T14:44:05Z",
+      "extra": "arXiv:2111.14330 [cs]",
+      "DOI": "10.48550/arXiv.2111.14330",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2111.14330",
+      "creators": [
+        {
+          "firstName": "Byungseok",
+          "lastName": "Roh",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "JaeWoong",
+          "lastName": "Shin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Wuhyun",
+          "lastName": "Shin",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Saehoon",
+          "lastName": "Kim",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:44:05Z",
+      "dateModified": "2026-01-05T04:19:10Z",
+      "uri": "http://zotero.org/users/18822313/items/29IBKEUR",
+      "itemID": 128,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Roh 等 - 2022 - Sparse DETR Efficient End-to-End Object Detection with Learnable Sparsity.pdf",
+          "url": "http://arxiv.org/pdf/2111.14330v2",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2022\\roh_sparse-detr_2022\\Roh 等 - 2022 - Sparse DETR Efficient End-to-End Object Detection with Learnable Sparsity.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:08Z",
+          "dateModified": "2026-01-03T14:44:09Z",
+          "uri": "http://zotero.org/users/18822313/items/3K6IP2AG",
+          "select": "zotero://select/library/items/3K6IP2AG"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2111.14330",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:08Z",
+          "dateModified": "2026-01-03T14:44:08Z",
+          "uri": "http://zotero.org/users/18822313/items/5CJU6NFF",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\5CJU6NFF\\2111.html",
+          "select": "zotero://select/library/items/5CJU6NFF"
+        }
+      ],
+      "notes": [
+        {
+          "key": "PMTT358H",
+          "version": 7,
+          "itemType": "note",
+          "parentItem": "29IBKEUR",
+          "note": "Comment: ICLR 2022. Code is available at https://github.com/kakaobrain/sparse-detr",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:05Z",
+          "dateModified": "2026-01-03T14:44:05Z",
+          "uri": "http://zotero.org/users/18822313/items/PMTT358H"
+        }
+      ],
+      "citationKey": "roh_sparse-detr_2022",
+      "itemKey": "29IBKEUR",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/29IBKEUR"
+    },
+    {
+      "key": "5B6JI4C9",
+      "version": 7,
+      "itemType": "preprint",
+      "title": "DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries",
+      "abstractNote": "We introduce a framework for multi-camera 3D object detection. In contrast to existing works, which estimate 3D bounding boxes directly from monocular images or use depth prediction networks to generate input for 3D object detection from 2D information, our method manipulates predictions directly in 3D space. Our architecture extracts 2D features from multiple camera images and then uses a sparse set of 3D object queries to index into these 2D features, linking 3D positions to multi-view images using camera transformation matrices. Finally, our model makes a bounding box prediction per object query, using a set-to-set loss to measure the discrepancy between the ground-truth and the prediction. This top-down approach outperforms its bottom-up counterpart in which object bounding box prediction follows per-pixel depth estimation, since it does not suffer from the compounding error introduced by a depth prediction model. Moreover, our method does not require post-processing such as non-maximum suppression, dramatically improving inference speed. We achieve state-of-the-art performance on the nuScenes autonomous driving benchmark.",
+      "date": "2021-10-13",
+      "shortTitle": "DETR3D",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2110.06922",
+      "accessDate": "2026-01-03T14:44:26Z",
+      "extra": "arXiv:2110.06922 [cs]",
+      "DOI": "10.48550/arXiv.2110.06922",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2110.06922",
+      "creators": [
+        {
+          "firstName": "Yue",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Vitor",
+          "lastName": "Guizilini",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tianyuan",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yilun",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hang",
+          "lastName": "Zhao",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Justin",
+          "lastName": "Solomon",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Robotics",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:44:26Z",
+      "dateModified": "2026-01-04T12:35:02Z",
+      "uri": "http://zotero.org/users/18822313/items/5B6JI4C9",
+      "itemID": 135,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2110.06922",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:35Z",
+          "dateModified": "2026-01-03T14:44:35Z",
+          "uri": "http://zotero.org/users/18822313/items/5SGQ3LQW",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\5SGQ3LQW\\2110.html",
+          "select": "zotero://select/library/items/5SGQ3LQW"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Wang 等 - 2021 - DETR3D 3D Object Detection from Multi-view Images via 3D-to-2D Queries.pdf",
+          "url": "http://arxiv.org/pdf/2110.06922v1",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2021\\wang_detr3d-3d_2021\\Wang 等 - 2021 - DETR3D 3D Object Detection from Multi-view Images via 3D-to-2D Queries.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:35Z",
+          "dateModified": "2026-01-03T14:44:37Z",
+          "uri": "http://zotero.org/users/18822313/items/XGRG39I7",
+          "select": "zotero://select/library/items/XGRG39I7"
+        }
+      ],
+      "notes": [
+        {
+          "key": "JBG8NJ49",
+          "version": 7,
+          "itemType": "note",
+          "parentItem": "5B6JI4C9",
+          "note": "Comment: Accepted to CORL 2021",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:26Z",
+          "dateModified": "2026-01-03T14:44:26Z",
+          "uri": "http://zotero.org/users/18822313/items/JBG8NJ49"
+        }
+      ],
+      "citationKey": "wang_detr3d-3d_2021",
+      "itemKey": "5B6JI4C9",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5B6JI4C9"
+    },
+    {
+      "key": "GHWYS7AF",
+      "version": 7,
+      "itemType": "preprint",
+      "title": "RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision",
+      "abstractNote": "RT-DETR is the first real-time end-to-end transformer-based object detector. Its efficiency comes from the framework design and the Hungarian matching. However, compared to dense supervision detectors like the YOLO series, the Hungarian matching provides much sparser supervision, leading to insufficient model training and difficult to achieve optimal results. To address these issues, we proposed a hierarchical dense positive supervision method based on RT-DETR, named RT-DETRv3. Firstly, we introduce a CNN-based auxiliary branch that provides dense supervision that collaborates with the original decoder to enhance the encoder feature representation. Secondly, to address insufficient decoder training, we propose a novel learning strategy involving self-attention perturbation. This strategy diversifies label assignment for positive samples across multiple query groups, thereby enriching positive supervisions. Additionally, we introduce a shared-weight decoder branch for dense positive supervision to ensure more high-quality queries matching each ground truth. Notably, all aforementioned modules are training-only. We conduct extensive experiments to demonstrate the effectiveness of our approach on COCO val2017. RT-DETRv3 significantly outperforms existing real-time detectors, including the RT-DETR series and the YOLO series. For example, RT-DETRv3-R18 achieves 48.1% AP (+1.6%/+1.4%) compared to RT-DETR-R18/RT-DETRv2-R18, while maintaining the same latency. Furthermore, RT-DETRv3-R101 can attain an impressive 54.6% AP outperforming YOLOv10-X. The code will be released at https://github.com/clxia12/RT-DETRv3.",
+      "date": "2024-12-19",
+      "shortTitle": "RT-DETRv3",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2409.08475",
+      "accessDate": "2026-01-03T14:44:13Z",
+      "extra": "arXiv:2409.08475 [cs]",
+      "DOI": "10.48550/arXiv.2409.08475",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2409.08475",
+      "creators": [
+        {
+          "firstName": "Shuo",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chunlong",
+          "lastName": "Xia",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Feng",
+          "lastName": "Lv",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yifeng",
+          "lastName": "Shi",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:44:13Z",
+      "dateModified": "2026-01-04T12:35:06Z",
+      "uri": "http://zotero.org/users/18822313/items/GHWYS7AF",
+      "itemID": 132,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2409.08475",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:16Z",
+          "dateModified": "2026-01-03T14:44:16Z",
+          "uri": "http://zotero.org/users/18822313/items/9CBE2BEI",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\9CBE2BEI\\2409.html",
+          "select": "zotero://select/library/items/9CBE2BEI"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Wang 等 - 2024 - RT-DETRv3 Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision.pdf",
+          "url": "http://arxiv.org/pdf/2409.08475v3",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2024\\wang_rtdetrv3-realtime_2024\\Wang 等 - 2024 - RT-DETRv3 Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:14Z",
+          "dateModified": "2026-01-03T14:44:15Z",
+          "uri": "http://zotero.org/users/18822313/items/CVV3EPRH",
+          "select": "zotero://select/library/items/CVV3EPRH"
+        }
+      ],
+      "notes": [],
+      "citationKey": "wang_rtdetrv3-realtime_2024",
+      "itemKey": "GHWYS7AF",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/GHWYS7AF"
+    },
+    {
+      "key": "26SAZCZU",
+      "version": 3,
+      "itemType": "preprint",
+      "title": "Rethinking Detection Based Table Structure Recognition for Visually Rich Document Images",
+      "abstractNote": "Table Structure Recognition (TSR) is a widely discussed task aiming at transforming unstructured table images into structured formats, such as HTML sequences, to make text-only models, such as ChatGPT, that can further process these tables. One type of solution is using detection models to detect table components, such as columns and rows, then applying a rule-based post-processing method to convert detection results into HTML sequences. However, existing detection-based models usually cannot perform as well as other types of solutions regarding cell-level TSR metrics, such as TEDS, and the underlying reasons limiting the performance of these models on the TSR task are also not well-explored. Therefore, we revisit existing detection-based models comprehensively and explore the underlying reasons hindering these models' performance, including the improper problem definition, the mismatch issue of detection and TSR metrics, the characteristics of detection models, and the impact of local and long-range features extraction. Based on our analysis and findings, we apply simple methods to tailor a typical two-stage detection model, Cascade R-CNN, for the TSR task. The experimental results show that the tailored Cascade R-CNN based model can improve the base Cascade R-CNN model by 16.35\\% on the FinTabNet dataset regarding the structure-only TEDS, outperforming other types of state-of-the-art methods, demonstrating that our findings can be a guideline for improving detection-based TSR models and that a purely detection-based solution is competitive with other types of solutions, such as graph-based and image-to-sequence solutions.",
+      "date": "2024-01-10",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2312.00699",
+      "accessDate": "2026-01-03T14:42:58Z",
+      "extra": "arXiv:2312.00699 [cs]\nTLDR: The revisiting of existing detection-based models comprehensively and the underlying reasons hindering these models' performance are explored are explored, demonstrating that the findings can be a guideline for improving detection-based TSR models and that a purely detection-based solution is competitive with other types of solutions, such as graph-based and image-to-sequence solutions.",
+      "DOI": "10.48550/arXiv.2312.00699",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2312.00699",
+      "creators": [
+        {
+          "firstName": "Bin",
+          "lastName": "Xiao",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Murat",
+          "lastName": "Simsek",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Burak",
+          "lastName": "Kantarci",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Ala Abu",
+          "lastName": "Alkheir",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Information Retrieval",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:42:59Z",
+      "dateModified": "2026-01-04T12:35:03Z",
+      "uri": "http://zotero.org/users/18822313/items/26SAZCZU",
+      "itemID": 97,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2312.00699",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:03Z",
+          "dateModified": "2026-01-03T14:43:03Z",
+          "uri": "http://zotero.org/users/18822313/items/UJHLXETF",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\UJHLXETF\\2312.html",
+          "select": "zotero://select/library/items/UJHLXETF"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Xiao 等 - 2024 - Rethinking Detection Based Table Structure Recognition for Visually Rich Document Images.pdf",
+          "url": "http://arxiv.org/pdf/2312.00699v2",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2024\\xiao_rethinking-detection_2024\\Xiao 等 - 2024 - Rethinking Detection Based Table Structure Recognition for Visually Rich Document Images.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:03Z",
+          "dateModified": "2026-01-03T14:43:03Z",
+          "uri": "http://zotero.org/users/18822313/items/UBXIECV6",
+          "select": "zotero://select/library/items/UBXIECV6"
+        }
+      ],
+      "notes": [
+        {
+          "key": "KU6NBUZ6",
+          "version": 4,
+          "itemType": "note",
+          "parentItem": "26SAZCZU",
+          "note": "Comment: under review",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:42:59Z",
+          "dateModified": "2026-01-03T14:42:59Z",
+          "uri": "http://zotero.org/users/18822313/items/KU6NBUZ6"
+        }
+      ],
+      "citationKey": "xiao_rethinking-detection_2024",
+      "itemKey": "26SAZCZU",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/26SAZCZU"
+    },
+    {
+      "key": "XN952LSZ",
+      "version": 8,
+      "itemType": "preprint",
+      "title": "MOTR: End-to-End Multiple-Object Tracking with Transformer",
+      "abstractNote": "Temporal modeling of objects is a key challenge in multiple object tracking (MOT). Existing methods track by associating detections through motion-based and appearance-based similarity heuristics. The post-processing nature of association prevents end-to-end exploitation of temporal variations in video sequence. In this paper, we propose MOTR, which extends DETR and introduces track query to model the tracked instances in the entire video. Track query is transferred and updated frame-by-frame to perform iterative prediction over time. We propose tracklet-aware label assignment to train track queries and newborn object queries. We further propose temporal aggregation network and collective average loss to enhance temporal relation modeling. Experimental results on DanceTrack show that MOTR significantly outperforms state-of-the-art method, ByteTrack by 6.5% on HOTA metric. On MOT17, MOTR outperforms our concurrent works, TrackFormer and TransTrack, on association performance. MOTR can serve as a stronger baseline for future research on temporal modeling and Transformer-based trackers. Code is available at https://github.com/megvii-research/MOTR.",
+      "date": "2022-07-19",
+      "shortTitle": "MOTR",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2105.03247",
+      "accessDate": "2026-01-03T14:44:41Z",
+      "extra": "arXiv:2105.03247 [cs]",
+      "DOI": "10.48550/arXiv.2105.03247",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2105.03247",
+      "creators": [
+        {
+          "firstName": "Fangao",
+          "lastName": "Zeng",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bin",
+          "lastName": "Dong",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yuang",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Tiancai",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xiangyu",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yichen",
+          "lastName": "Wei",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:44:41Z",
+      "dateModified": "2026-01-04T12:35:06Z",
+      "uri": "http://zotero.org/users/18822313/items/XN952LSZ",
+      "itemID": 139,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2105.03247",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:44Z",
+          "dateModified": "2026-01-03T14:44:44Z",
+          "uri": "http://zotero.org/users/18822313/items/PB32SCS9",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\PB32SCS9\\2105.html",
+          "select": "zotero://select/library/items/PB32SCS9"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Zeng 等 - 2022 - MOTR End-to-End Multiple-Object Tracking with Transformer.pdf",
+          "url": "http://arxiv.org/pdf/2105.03247v4",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2022\\zeng_motr-endtoend_2022\\Zeng 等 - 2022 - MOTR End-to-End Multiple-Object Tracking with Transformer.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:43Z",
+          "dateModified": "2026-01-03T14:44:43Z",
+          "uri": "http://zotero.org/users/18822313/items/LUG8M45S",
+          "select": "zotero://select/library/items/LUG8M45S"
+        }
+      ],
+      "notes": [
+        {
+          "key": "WP5Z4UTI",
+          "version": 8,
+          "itemType": "note",
+          "parentItem": "XN952LSZ",
+          "note": "Comment: Accepted by ECCV 2022. Code is available at https://github.com/megvii-research/MOTR",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:41Z",
+          "dateModified": "2026-01-03T14:44:41Z",
+          "uri": "http://zotero.org/users/18822313/items/WP5Z4UTI"
+        }
+      ],
+      "citationKey": "zeng_motr-endtoend_2022",
+      "itemKey": "XN952LSZ",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/XN952LSZ"
+    },
+    {
+      "key": "YK3928ZA",
+      "version": 8,
+      "itemType": "preprint",
+      "title": "Accelerating DETR Convergence via Semantic-Aligned Matching",
+      "abstractNote": "The recently developed DEtection TRansformer (DETR) establishes a new object detection paradigm by eliminating a series of hand-crafted components. However, DETR suffers from extremely slow convergence, which increases the training cost significantly. We observe that the slow convergence is largely attributed to the complication in matching object queries with target features in different feature embedding spaces. This paper presents SAM-DETR, a Semantic-Aligned-Matching DETR that greatly accelerates DETR's convergence without sacrificing its accuracy. SAM-DETR addresses the convergence issue from two perspectives. First, it projects object queries into the same embedding space as encoded image features, where the matching can be accomplished efficiently with aligned semantics. Second, it explicitly searches salient points with the most discriminative features for semantic-aligned matching, which further speeds up the convergence and boosts detection accuracy as well. Being like a plug and play, SAM-DETR complements existing convergence solutions well yet only introduces slight computational overhead. Extensive experiments show that the proposed SAM-DETR achieves superior convergence as well as competitive detection accuracy. The implementation codes are available at https://github.com/ZhangGongjie/SAM-DETR.",
+      "date": "2022-03-14",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2203.06883",
+      "accessDate": "2026-01-03T14:44:50Z",
+      "extra": "arXiv:2203.06883 [cs]",
+      "DOI": "10.48550/arXiv.2203.06883",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2203.06883",
+      "creators": [
+        {
+          "firstName": "Gongjie",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Zhipeng",
+          "lastName": "Luo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yingchen",
+          "lastName": "Yu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Kaiwen",
+          "lastName": "Cui",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shijian",
+          "lastName": "Lu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:44:50Z",
+      "dateModified": "2026-01-04T12:35:06Z",
+      "uri": "http://zotero.org/users/18822313/items/YK3928ZA",
+      "itemID": 143,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2203.06883",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:53Z",
+          "dateModified": "2026-01-03T14:44:53Z",
+          "uri": "http://zotero.org/users/18822313/items/GZHUMVWZ",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\GZHUMVWZ\\2203.html",
+          "select": "zotero://select/library/items/GZHUMVWZ"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Zhang 等 - 2022 - Accelerating DETR Convergence via Semantic-Aligned Matching.pdf",
+          "url": "http://arxiv.org/pdf/2203.06883v1",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2022\\zhang_accelerating-detr_2022\\Zhang 等 - 2022 - Accelerating DETR Convergence via Semantic-Aligned Matching.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:52Z",
+          "dateModified": "2026-01-03T14:44:54Z",
+          "uri": "http://zotero.org/users/18822313/items/ELD88X6F",
+          "select": "zotero://select/library/items/ELD88X6F"
+        }
+      ],
+      "notes": [
+        {
+          "key": "7Y2WP4F5",
+          "version": 8,
+          "itemType": "note",
+          "parentItem": "YK3928ZA",
+          "note": "Comment: This paper has been accepted to CVPR 2022",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:44:50Z",
+          "dateModified": "2026-01-03T14:44:50Z",
+          "uri": "http://zotero.org/users/18822313/items/7Y2WP4F5"
+        }
+      ],
+      "citationKey": "zhang_accelerating-detr_2022",
+      "itemKey": "YK3928ZA",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/YK3928ZA"
+    },
+    {
+      "key": "HPLZ65Z2",
+      "version": 8,
+      "itemType": "preprint",
+      "title": "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection",
+      "abstractNote": "We present DINO (\\textbf{D}ETR with \\textbf{I}mproved de\\textbf{N}oising anch\\textbf{O}r boxes), a state-of-the-art end-to-end object detector. % in this paper. DINO improves over previous DETR-like models in performance and efficiency by using a contrastive way for denoising training, a mixed query selection method for anchor initialization, and a look forward twice scheme for box prediction. DINO achieves $49.4$AP in $12$ epochs and $51.3$AP in $24$ epochs on COCO with a ResNet-50 backbone and multi-scale features, yielding a significant improvement of $\\textbf{+6.0}$\\textbf{AP} and $\\textbf{+2.7}$\\textbf{AP}, respectively, compared to DN-DETR, the previous best DETR-like model. DINO scales well in both model size and data size. Without bells and whistles, after pre-training on the Objects365 dataset with a SwinL backbone, DINO obtains the best results on both COCO \\texttt{val2017} ($\\textbf{63.2}$\\textbf{AP}) and \\texttt{test-dev} (\\textbf{$\\textbf{63.3}$AP}). Compared to other models on the leaderboard, DINO significantly reduces its model size and pre-training data size while achieving better results. Our code will be available at \\url{https://github.com/IDEACVR/DINO}.",
+      "date": "2022-07-11",
+      "shortTitle": "DINO",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2203.03605",
+      "accessDate": "2026-01-03T14:46:50Z",
+      "extra": "arXiv:2203.03605 [cs]\nTLDR: DINO improves over previous DETR-like models in performance and efficiency by using a contrastive way for denoising training, a mixed query selection method for anchor initialization, and a look forward twice scheme for box prediction.",
+      "DOI": "10.48550/arXiv.2203.03605",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2203.03605",
+      "creators": [
+        {
+          "firstName": "Hao",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Feng",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shilong",
+          "lastName": "Liu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lei",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Hang",
+          "lastName": "Su",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jun",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lionel M.",
+          "lastName": "Ni",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Heung-Yeung",
+          "lastName": "Shum",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:46:51Z",
+      "dateModified": "2026-01-04T12:35:06Z",
+      "uri": "http://zotero.org/users/18822313/items/HPLZ65Z2",
+      "itemID": 147,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Zhang 等 - 2022 - DINO DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.pdf",
+          "url": "http://arxiv.org/pdf/2203.03605v4",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2022\\zhang_dino-detr_2022\\Zhang 等 - 2022 - DINO DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:46:52Z",
+          "dateModified": "2026-01-03T14:46:53Z",
+          "uri": "http://zotero.org/users/18822313/items/C6J58W26",
+          "select": "zotero://select/library/items/C6J58W26"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zhang_dino-detr_2022",
+      "itemKey": "HPLZ65Z2",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/HPLZ65Z2"
+    },
+    {
+      "key": "CGJBFE6C",
+      "version": 4,
+      "itemType": "preprint",
+      "title": "Enhancing DETRs Variants through Improved Content Query and Similar Query Aggregation",
+      "abstractNote": "The design of the query is crucial for the performance of DETR and its variants. Each query consists of two components: a content part and a positional one. Traditionally, the content query is initialized with a zero or learnable embedding, lacking essential content information and resulting in sub-optimal performance. In this paper, we introduce a novel plug-and-play module, Self-Adaptive Content Query (SACQ), to address this limitation. The SACQ module utilizes features from the transformer encoder to generate content queries via self-attention pooling. This allows candidate queries to adapt to the input image, resulting in a more comprehensive content prior and better focus on target objects. However, this improved concentration poses a challenge for the training process that utilizes the Hungarian matching, which selects only a single candidate and suppresses other similar ones. To overcome this, we propose a query aggregation strategy to cooperate with SACQ. It merges similar predicted candidates from different queries, easing the optimization. Our extensive experiments on the COCO dataset demonstrate the effectiveness of our proposed approaches across six different DETR's variants with multiple configurations, achieving an average improvement of over 1.0 AP.",
+      "date": "2024-05-06",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2405.03318",
+      "accessDate": "2026-01-03T14:43:07Z",
+      "extra": "arXiv:2405.03318 [cs]\nTLDR: A novel plug-and-play module, Self-Adaptive Content Query (SACQ), is introduced, which utilizes features from the transformer encoder to generate content queries via self-attention pooling to address sub-optimal performance of DETR and its variants.",
+      "DOI": "10.48550/arXiv.2405.03318",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2405.03318",
+      "creators": [
+        {
+          "firstName": "Yingying",
+          "lastName": "Zhang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Chuangji",
+          "lastName": "Shi",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xin",
+          "lastName": "Guo",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jiangwei",
+          "lastName": "Lao",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jian",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jiaotuan",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jingdong",
+          "lastName": "Chen",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "Computer Science - Multimedia",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:43:07Z",
+      "dateModified": "2026-01-04T12:35:03Z",
+      "uri": "http://zotero.org/users/18822313/items/CGJBFE6C",
+      "itemID": 101,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2405.03318",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:10Z",
+          "dateModified": "2026-01-03T14:43:10Z",
+          "uri": "http://zotero.org/users/18822313/items/CY6YGNHH",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\CY6YGNHH\\2405.html",
+          "select": "zotero://select/library/items/CY6YGNHH"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Zhang 等 - 2024 - Enhancing DETRs Variants through Improved Content Query and Similar Query Aggregation.pdf",
+          "url": "http://arxiv.org/pdf/2405.03318v1",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2024\\zhang_enhancing-detrs_2024\\Zhang 等 - 2024 - Enhancing DETRs Variants through Improved Content Query and Similar Query Aggregation.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:12Z",
+          "dateModified": "2026-01-03T14:43:12Z",
+          "uri": "http://zotero.org/users/18822313/items/8BVUFWMZ",
+          "select": "zotero://select/library/items/8BVUFWMZ"
+        }
+      ],
+      "notes": [
+        {
+          "key": "AQI9V7P9",
+          "version": 4,
+          "itemType": "note",
+          "parentItem": "CGJBFE6C",
+          "note": "Comment: 11 pages, 7 figures",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:43:07Z",
+          "dateModified": "2026-01-03T14:43:07Z",
+          "uri": "http://zotero.org/users/18822313/items/AQI9V7P9"
+        }
+      ],
+      "citationKey": "zhang_enhancing-detrs_2024",
+      "itemKey": "CGJBFE6C",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/CGJBFE6C"
+    },
+    {
+      "key": "8S4YL73A",
+      "version": 9,
+      "itemType": "preprint",
+      "title": "DETRs Beat YOLOs on Real-time Object Detection",
+      "abstractNote": "The YOLO series has become the most popular framework for real-time object detection due to its reasonable trade-off between speed and accuracy. However, we observe that the speed and accuracy of YOLOs are negatively affected by the NMS. Recently, end-to-end Transformer-based detectors (DETRs) have provided an alternative to eliminating NMS. Nevertheless, the high computational cost limits their practicality and hinders them from fully exploiting the advantage of excluding NMS. In this paper, we propose the Real-Time DEtection TRansformer (RT-DETR), the first real-time end-to-end object detector to our best knowledge that addresses the above dilemma. We build RT-DETR in two steps, drawing on the advanced DETR: first we focus on maintaining accuracy while improving speed, followed by maintaining speed while improving accuracy. Specifically, we design an efficient hybrid encoder to expeditiously process multi-scale features by decoupling intra-scale interaction and cross-scale fusion to improve speed. Then, we propose the uncertainty-minimal query selection to provide high-quality initial queries to the decoder, thereby improving accuracy. In addition, RT-DETR supports flexible speed tuning by adjusting the number of decoder layers to adapt to various scenarios without retraining. Our RT-DETR-R50 / R101 achieves 53.1% / 54.3% AP on COCO and 108 / 74 FPS on T4 GPU, outperforming previously advanced YOLOs in both speed and accuracy. We also develop scaled RT-DETRs that outperform the lighter YOLO detectors (S and M models). Furthermore, RT-DETR-R50 outperforms DINO-R50 by 2.2% AP in accuracy and about 21 times in FPS. After pre-training with Objects365, RT-DETR-R50 / R101 achieves 55.3% / 56.2% AP. The project page: https://zhao-yian.github.io/RTDETR.",
+      "date": "2024-04-03",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2304.08069",
+      "accessDate": "2026-01-03T14:47:05Z",
+      "extra": "arXiv:2304.08069 [cs]",
+      "DOI": "10.48550/arXiv.2304.08069",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2304.08069",
+      "creators": [
+        {
+          "firstName": "Yian",
+          "lastName": "Zhao",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Wenyu",
+          "lastName": "Lv",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Shangliang",
+          "lastName": "Xu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jinman",
+          "lastName": "Wei",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Guanzhong",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Qingqing",
+          "lastName": "Dang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yi",
+          "lastName": "Liu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jie",
+          "lastName": "Chen",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:47:05Z",
+      "dateModified": "2026-01-04T12:35:07Z",
+      "uri": "http://zotero.org/users/18822313/items/8S4YL73A",
+      "itemID": 152,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2304.08069",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:09Z",
+          "dateModified": "2026-01-03T14:47:09Z",
+          "uri": "http://zotero.org/users/18822313/items/LKXVIKB7",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\LKXVIKB7\\2304.html",
+          "select": "zotero://select/library/items/LKXVIKB7"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Zhao 等 - 2024 - DETRs Beat YOLOs on Real-time Object Detection.pdf",
+          "url": "http://arxiv.org/pdf/2304.08069v3",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2024\\zhao_detrs-beat_2024\\Zhao 等 - 2024 - DETRs Beat YOLOs on Real-time Object Detection.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:07Z",
+          "dateModified": "2026-01-03T14:47:07Z",
+          "uri": "http://zotero.org/users/18822313/items/ZW4XJ34L",
+          "select": "zotero://select/library/items/ZW4XJ34L"
+        }
+      ],
+      "notes": [],
+      "citationKey": "zhao_detrs-beat_2024",
+      "itemKey": "8S4YL73A",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/8S4YL73A"
+    },
+    {
+      "key": "5HBHAWIV",
+      "version": 9,
+      "itemType": "preprint",
+      "title": "Deformable DETR: Deformable Transformers for End-to-End Object Detection",
+      "abstractNote": "DETR has been recently proposed to eliminate the need for many hand-designed components in object detection while demonstrating good performance. However, it suffers from slow convergence and limited feature spatial resolution, due to the limitation of Transformer attention modules in processing image feature maps. To mitigate these issues, we proposed Deformable DETR, whose attention modules only attend to a small set of key sampling points around a reference. Deformable DETR can achieve better performance than DETR (especially on small objects) with 10 times less training epochs. Extensive experiments on the COCO benchmark demonstrate the effectiveness of our approach. Code is released at https://github.com/fundamentalvision/Deformable-DETR.",
+      "date": "2021-03-18",
+      "shortTitle": "Deformable DETR",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2010.04159",
+      "accessDate": "2026-01-03T14:47:28Z",
+      "extra": "arXiv:2010.04159 [cs]",
+      "DOI": "10.48550/arXiv.2010.04159",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2010.04159",
+      "creators": [
+        {
+          "firstName": "Xizhou",
+          "lastName": "Zhu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Weijie",
+          "lastName": "Su",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Lewei",
+          "lastName": "Lu",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Bin",
+          "lastName": "Li",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Xiaogang",
+          "lastName": "Wang",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Jifeng",
+          "lastName": "Dai",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:47:28Z",
+      "dateModified": "2026-01-04T12:35:07Z",
+      "uri": "http://zotero.org/users/18822313/items/5HBHAWIV",
+      "itemID": 158,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2010.04159",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:31Z",
+          "dateModified": "2026-01-03T14:47:31Z",
+          "uri": "http://zotero.org/users/18822313/items/SUB2BQSR",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\SUB2BQSR\\2010.html",
+          "select": "zotero://select/library/items/SUB2BQSR"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Zhu 等 - 2021 - Deformable DETR Deformable Transformers for End-to-End Object Detection.pdf",
+          "url": "http://arxiv.org/pdf/2010.04159v4",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2021\\zhu_deformable-detr_2021\\Zhu 等 - 2021 - Deformable DETR Deformable Transformers for End-to-End Object Detection.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:30Z",
+          "dateModified": "2026-01-03T14:47:31Z",
+          "uri": "http://zotero.org/users/18822313/items/UXGYIWKK",
+          "select": "zotero://select/library/items/UXGYIWKK"
+        }
+      ],
+      "notes": [
+        {
+          "key": "5EIDSSGU",
+          "version": 10,
+          "itemType": "note",
+          "parentItem": "5HBHAWIV",
+          "note": "Comment: ICLR 2021 Oral",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:28Z",
+          "dateModified": "2026-01-03T14:47:28Z",
+          "uri": "http://zotero.org/users/18822313/items/5EIDSSGU"
+        }
+      ],
+      "citationKey": "zhu_deformable-detr_2021",
+      "itemKey": "5HBHAWIV",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/5HBHAWIV"
+    },
+    {
+      "key": "SPMCE2DT",
+      "version": 10,
+      "itemType": "preprint",
+      "title": "DETRs with Collaborative Hybrid Assignments Training",
+      "abstractNote": "In this paper, we provide the observation that too few queries assigned as positive samples in DETR with one-to-one set matching leads to sparse supervision on the encoder's output which considerably hurt the discriminative feature learning of the encoder and vice visa for attention learning in the decoder. To alleviate this, we present a novel collaborative hybrid assignments training scheme, namely $\\mathcal{C}$o-DETR, to learn more efficient and effective DETR-based detectors from versatile label assignment manners. This new training scheme can easily enhance the encoder's learning ability in end-to-end detectors by training the multiple parallel auxiliary heads supervised by one-to-many label assignments such as ATSS and Faster RCNN. In addition, we conduct extra customized positive queries by extracting the positive coordinates from these auxiliary heads to improve the training efficiency of positive samples in the decoder. In inference, these auxiliary heads are discarded and thus our method introduces no additional parameters and computational cost to the original detector while requiring no hand-crafted non-maximum suppression (NMS). We conduct extensive experiments to evaluate the effectiveness of the proposed approach on DETR variants, including DAB-DETR, Deformable-DETR, and DINO-Deformable-DETR. The state-of-the-art DINO-Deformable-DETR with Swin-L can be improved from 58.5% to 59.5% AP on COCO val. Surprisingly, incorporated with ViT-L backbone, we achieve 66.0% AP on COCO test-dev and 67.9% AP on LVIS val, outperforming previous methods by clear margins with much fewer model sizes. Codes are available at \\url{https://github.com/Sense-X/Co-DETR}.",
+      "date": "2023-08-10",
+      "libraryCatalog": "arXiv.org",
+      "url": "http://arxiv.org/abs/2211.12860",
+      "accessDate": "2026-01-03T14:47:35Z",
+      "extra": "arXiv:2211.12860 [cs]",
+      "DOI": "10.48550/arXiv.2211.12860",
+      "repository": "arXiv",
+      "archiveID": "arXiv:2211.12860",
+      "creators": [
+        {
+          "firstName": "Zhuofan",
+          "lastName": "Zong",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Guanglu",
+          "lastName": "Song",
+          "creatorType": "author"
+        },
+        {
+          "firstName": "Yu",
+          "lastName": "Liu",
+          "creatorType": "author"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Computer Science - Computer Vision and Pattern Recognition",
+          "type": 1
+        },
+        {
+          "tag": "match_status:unmatched"
+        }
+      ],
+      "relations": {},
+      "dateAdded": "2026-01-03T14:47:35Z",
+      "dateModified": "2026-01-04T12:35:07Z",
+      "uri": "http://zotero.org/users/18822313/items/SPMCE2DT",
+      "itemID": 162,
+      "attachments": [
+        {
+          "itemType": "attachment",
+          "title": "Snapshot",
+          "url": "http://arxiv.org/abs/2211.12860",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:48:10Z",
+          "dateModified": "2026-01-03T14:48:10Z",
+          "uri": "http://zotero.org/users/18822313/items/4FK8LIDV",
+          "path": "C:\\Users\\joshua\\Zotero\\storage\\4FK8LIDV\\2211.html",
+          "select": "zotero://select/library/items/4FK8LIDV"
+        },
+        {
+          "itemType": "attachment",
+          "title": "Zong 等 - 2023 - DETRs with Collaborative Hybrid Assignments Training.pdf",
+          "url": "http://arxiv.org/pdf/2211.12860v6",
+          "path": "C:\\Users\\joshua\\Documents\\Bibliography\\2023\\zong_detrs-collaborative_2023\\Zong 等 - 2023 - DETRs with Collaborative Hybrid Assignments Training.pdf",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:38Z",
+          "dateModified": "2026-01-03T14:47:38Z",
+          "uri": "http://zotero.org/users/18822313/items/9YY9GZN3",
+          "select": "zotero://select/library/items/9YY9GZN3"
+        }
+      ],
+      "notes": [
+        {
+          "key": "JJ2K7KL8",
+          "version": 10,
+          "itemType": "note",
+          "parentItem": "SPMCE2DT",
+          "note": "Comment: ICCV 2023. Codes are available at https://github.com/Sense-X/Co-DETR",
+          "tags": [],
+          "relations": {},
+          "dateAdded": "2026-01-03T14:47:35Z",
+          "dateModified": "2026-01-03T14:47:35Z",
+          "uri": "http://zotero.org/users/18822313/items/JJ2K7KL8"
+        }
+      ],
+      "citationKey": "zong_detrs-collaborative_2023",
+      "itemKey": "SPMCE2DT",
+      "libraryID": 1,
+      "select": "zotero://select/library/items/SPMCE2DT"
+    }
+  ]
+}

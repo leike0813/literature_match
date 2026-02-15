@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "generated_at": "2026-01-16T04:30:23Z",
+    "doc_path": "examples/example_entry.md",
+    "match_result_path": "artifacts/example_entry/match_result.json"
+  },
+  "decisions": [
+    {
+      "ref_id": "2",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.549, top2=0.370, jaccard=0.222)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "3",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.290, top2=0.289, jaccard=0.100)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "9",
+      "citekey": "chen_lwdetr-transformer_2024",
+      "reason": "title/score best (score=0.385, jaccard=0.417)",
+      "confidence": 0.749
+    },
+    {
+      "ref_id": "11",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.290, top2=0.289, jaccard=0.091)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "12",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.274, top2=0.126, jaccard=0.095)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "13",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.458, top2=0.172, jaccard=0.067)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "15",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.426, top2=0.385, jaccard=0.188)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "16",
+      "citekey": "zhu_deformable-detr_2021",
+      "reason": "title/score best (score=0.856, jaccard=0.667)",
+      "confidence": 0.85
+    },
+    {
+      "ref_id": "17",
+      "citekey": "carion_endtoend-object_2020",
+      "reason": "title/score best (score=0.716, jaccard=0.308)",
+      "confidence": 0.826
+    },
+    {
+      "ref_id": "24",
+      "citekey": "zhu_deformable-detr_2021",
+      "reason": "title/score best (score=0.636, jaccard=0.222)",
+      "confidence": 0.785
+    },
+    {
+      "ref_id": "25",
+      "citekey": "zhu_deformable-detr_2021",
+      "reason": "title/score best (score=0.636, jaccard=0.250)",
+      "confidence": 0.791
+    },
+    {
+      "ref_id": "28",
+      "citekey": "carion_endtoend-object_2020",
+      "reason": "title/score best (score=0.686, jaccard=0.571)",
+      "confidence": 0.85
+    },
+    {
+      "ref_id": "31",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.466, top2=0.101, jaccard=0.182)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "32",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.466, top2=0.101, jaccard=0.182)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "36",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.326, top2=0.193, jaccard=0.111)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "38",
+      "citekey": "zhang_dino-detr_2022",
+      "reason": "title/score best (score=0.764, jaccard=0.500)",
+      "confidence": 0.85
+    },
+    {
+      "ref_id": "42",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.324, top2=0.214, jaccard=0.111)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "44",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.324, top2=0.135, jaccard=0.118)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "45",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.478, top2=0.388, jaccard=0.286)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "50",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.355, top2=0.159, jaccard=0.211)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "55",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.575, top2=0.428, jaccard=0.308)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "56",
+      "citekey": "zeng_motr-endtoend_2022",
+      "reason": "title/score best (score=0.670, jaccard=0.556)",
+      "confidence": 0.85
+    },
+    {
+      "ref_id": "58",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.400, top2=0.187, jaccard=0.125)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "59",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.420, top2=0.101, jaccard=0.091)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "60",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.372, top2=0.258, jaccard=0.250)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "61",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.387, top2=0.282, jaccard=0.333)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "62",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.337, top2=0.275, jaccard=0.278)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "63",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.337, top2=0.275, jaccard=0.278)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "64",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.319, top2=0.262, jaccard=0.250)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "65",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.433, top2=0.391, jaccard=0.286)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "68",
+      "citekey": "carion_endtoend-object_2020",
+      "reason": "title/score best (score=0.898, jaccard=0.625)",
+      "confidence": 0.85
+    },
+    {
+      "ref_id": "72",
+      "citekey": "li_panoptic-segformer_2022",
+      "reason": "title/score best (score=0.606, jaccard=0.143)",
+      "confidence": 0.76
+    },
+    {
+      "ref_id": "73",
+      "citekey": "li_panoptic-segformer_2022",
+      "reason": "title/score best (score=0.856, jaccard=0.636)",
+      "confidence": 0.85
+    },
+    {
+      "ref_id": "78",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.305, top2=0.267, jaccard=0.200)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "79",
+      "citekey": "meng_conditional-detr_2021",
+      "reason": "title/score best (score=0.891, jaccard=0.667)",
+      "confidence": 0.85
+    },
+    {
+      "ref_id": "82",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.473, top2=0.340, jaccard=0.286)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "84",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.433, top2=0.101, jaccard=0.200)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "85",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.436, top2=0.141, jaccard=0.312)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "87",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.409, top2=0.304, jaccard=0.308)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "89",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.290, top2=0.289, jaccard=0.059)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "90",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.290, top2=0.289, jaccard=0.067)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "91",
+      "citekey": "carion_endtoend-object_2020",
+      "reason": "title/score best (score=0.618, jaccard=0.333)",
+      "confidence": 0.802
+    },
+    {
+      "ref_id": "93",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.586, top2=0.386, jaccard=0.176)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "95",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.277, top2=0.000, jaccard=0.062)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "104",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.406, top2=0.230, jaccard=0.273)",
+      "confidence": 0.2
+    },
+    {
+      "ref_id": "105",
+      "citekey": null,
+      "reason": "uncertain among candidates (top_score=0.406, top2=0.261, jaccard=0.190)",
+      "confidence": 0.2
+    }
+  ]
+}

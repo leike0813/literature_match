@@ -1,0 +1,1484 @@
+{
+  "meta": {
+    "doc_path": "examples/example_entry.md",
+    "generated_at": "2026-01-16T04:03:47Z",
+    "reference_section": {
+      "line_start": 282,
+      "line_end": 388,
+      "title": "Works cited"
+    },
+    "warnings": []
+  },
+  "refs": [
+    {
+      "ref_id": "1",
+      "line_start": 284,
+      "line_end": 284,
+      "raw_text": "1. A Review of DEtection TRansformer: From Basic Architecture to ..., accessed October 31, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12252279/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12252279/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12252279/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "A Review of DEtection TRansformer: From Basic Architecture to ...,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "2",
+      "line_start": 285,
+      "line_end": 285,
+      "raw_text": "2. Introduction to DETR (Detection Transformers): Everything You ..., accessed October 31, 2025, [https://www.lightly.ai/blog/detr](https://www.lightly.ai/blog/detr)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.lightly.ai/blog/detr",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Introduction to DETR (Detection Transformers): Everything You ...,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "3",
+      "line_start": 286,
+      "line_end": 286,
+      "raw_text": "3. \\[20.05\\] DETR \\- DOCSAID, accessed October 31, 2025, [https://docsaid.org/en/papers/object-detection/detr/](https://docsaid.org/en/papers/object-detection/detr/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://docsaid.org/en/papers/object-detection/detr/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "\\[20.05\\] DETR \\- DOCSAID,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "4",
+      "line_start": 287,
+      "line_end": 287,
+      "raw_text": "4. End-to-End Object Detection with Transformers, accessed October 31, 2025, [https://www.ecva.net/papers/eccv\\_2020/papers\\_ECCV/papers/123460205.pdf](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460205.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.ecva.net/papers/eccv\\_2020/papers\\_ECCV/papers/123460205.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "End-to-End Object Detection with Transformers,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "5",
+      "line_start": 288,
+      "line_end": 288,
+      "raw_text": "5. Comparison of Faster-RCNN and Detection Transformer (DETR) | by ..., accessed October 31, 2025, [https://whatdhack.medium.com/comparison-of-faster-rcnn-and-detection-transformer-detr-f67c2f5a2a04](https://whatdhack.medium.com/comparison-of-faster-rcnn-and-detection-transformer-detr-f67c2f5a2a04)",
+      "parsed": {
+        "doi": null,
+        "url": "https://whatdhack.medium.com/comparison-of-faster-rcnn-and-detection-transformer-detr-f67c2f5a2a04",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Comparison of Faster-RCNN and Detection Transformer (DETR) | by ...,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "6",
+      "line_start": 289,
+      "line_end": 289,
+      "raw_text": "6. A Review of DEtection TRansformer: From Basic Architecture to Advanced Developments and Visual Perception Applications \\- PubMed, accessed October 31, 2025, [https://pubmed.ncbi.nlm.nih.gov/40648209/](https://pubmed.ncbi.nlm.nih.gov/40648209/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/40648209/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "A Review of DEtection TRansformer: From Basic Architecture to Advanced Developments and Visual Perception Applications \\- PubMed,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "7",
+      "line_start": 290,
+      "line_end": 290,
+      "raw_text": "7. End-to-End Object Detection with Transformers \\- Meta Research \\- Facebook, accessed October 31, 2025, [https://research.facebook.com/publications/end-to-end-object-detection-with-transformers/](https://research.facebook.com/publications/end-to-end-object-detection-with-transformers/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://research.facebook.com/publications/end-to-end-object-detection-with-transformers/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "End-to-End Object Detection with Transformers \\- Meta Research \\- Facebook,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "8",
+      "line_start": 291,
+      "line_end": 291,
+      "raw_text": "8. arXiv:2005.12872v3 \\[cs.CV\\] 28 May 2020, accessed October 31, 2025, [https://arxiv.org/pdf/2005.12872](https://arxiv.org/pdf/2005.12872)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/pdf/2005.12872",
+        "arxiv": "2005.12872",
+        "year": "2020",
+        "title_guess": "arXiv:2005.12872v3 \\[cs.CV\\] 28 May 2020,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "9",
+      "line_start": 292,
+      "line_end": 292,
+      "raw_text": "9. DEtection TRansformer (DETR) vs. YOLO for object detection. | by Fahim Rustamy, PhD, accessed October 31, 2025, [https://medium.com/@faheemrustamy/detection-transformer-detr-vs-yolo-for-object-detection-baeb3c50bc3](https://medium.com/@faheemrustamy/detection-transformer-detr-vs-yolo-for-object-detection-baeb3c50bc3)",
+      "parsed": {
+        "doi": null,
+        "url": "https://medium.com/@faheemrustamy/detection-transformer-detr-vs-yolo-for-object-detection-baeb3c50bc3",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DEtection TRansformer (DETR) vs. YOLO for object detection. | by Fahim Rustamy, PhD,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "10",
+      "line_start": 293,
+      "line_end": 293,
+      "raw_text": "10. DETR: End-to-End Object Detection with Transformers | by Tanya Soni \\- Medium, accessed October 31, 2025, [https://medium.com/@arithmancylabs/detr-end-to-end-object-detection-with-transformers-292f9d757145](https://medium.com/@arithmancylabs/detr-end-to-end-object-detection-with-transformers-292f9d757145)",
+      "parsed": {
+        "doi": null,
+        "url": "https://medium.com/@arithmancylabs/detr-end-to-end-object-detection-with-transformers-292f9d757145",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETR: End-to-End Object Detection with Transformers | by Tanya Soni \\- Medium,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "11",
+      "line_start": 294,
+      "line_end": 294,
+      "raw_text": "11. DETR \\- Hugging Face, accessed October 31, 2025, [https://huggingface.co/docs/transformers/model\\_doc/detr](https://huggingface.co/docs/transformers/model_doc/detr)",
+      "parsed": {
+        "doi": null,
+        "url": "https://huggingface.co/docs/transformers/model\\_doc/detr",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETR \\- Hugging Face,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "12",
+      "line_start": 295,
+      "line_end": 295,
+      "raw_text": "12. DETR versus R-CNN Models: A Comparative Analysis of Performance in Vehicle Component and Damage Detection, accessed October 31, 2025, [https://fbmn.h-da.de/fileadmin/Dokumente/Studium/DS/WS23\\_MDS\\_Thesis\\_Kai\\_Hennig\\_POS.pdf](https://fbmn.h-da.de/fileadmin/Dokumente/Studium/DS/WS23_MDS_Thesis_Kai_Hennig_POS.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://fbmn.h-da.de/fileadmin/Dokumente/Studium/DS/WS23\\_MDS\\_Thesis\\_Kai\\_Hennig\\_POS.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETR versus R-CNN Models: A Comparative Analysis of Performance in Vehicle Component and Damage Detection,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "13",
+      "line_start": 296,
+      "line_end": 296,
+      "raw_text": "13. Deformable attention — tackling DETRs runtime complexity | by Tilo Flasche | Medium, accessed October 31, 2025, [https://medium.com/@tnodecode/multi-scale-deformable-attention-tackling-detrs-runtime-complexity-and-problems-with-small-9c35bd969f48](https://medium.com/@tnodecode/multi-scale-deformable-attention-tackling-detrs-runtime-complexity-and-problems-with-small-9c35bd969f48)",
+      "parsed": {
+        "doi": null,
+        "url": "https://medium.com/@tnodecode/multi-scale-deformable-attention-tackling-detrs-runtime-complexity-and-problems-with-small-9c35bd969f48",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Deformable attention — tackling DETRs runtime complexity | by Tilo Flasche | Medium,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "14",
+      "line_start": 297,
+      "line_end": 297,
+      "raw_text": "14. Deformable DETR: Deformable Transformers for End-to-End Object Detection \\- SciSpace, accessed October 31, 2025, [https://scispace.com/pdf/deformable-detr-deformable-transformers-for-end-to-end-105syp985u.pdf](https://scispace.com/pdf/deformable-detr-deformable-transformers-for-end-to-end-105syp985u.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://scispace.com/pdf/deformable-detr-deformable-transformers-for-end-to-end-105syp985u.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Deformable DETR: Deformable Transformers for End-to-End Object Detection \\- SciSpace,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "15",
+      "line_start": 298,
+      "line_end": 298,
+      "raw_text": "15. Do-DETR: enhancing DETR training convergence with integrated denoising and RoI mechanism | Request PDF \\- ResearchGate, accessed October 31, 2025, [https://www.researchgate.net/publication/390141609\\_Do-DETR\\_enhancing\\_DETR\\_training\\_convergence\\_with\\_integrated\\_denoising\\_and\\_RoI\\_mechanism](https://www.researchgate.net/publication/390141609_Do-DETR_enhancing_DETR_training_convergence_with_integrated_denoising_and_RoI_mechanism)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.researchgate.net/publication/390141609\\_Do-DETR\\_enhancing\\_DETR\\_training\\_convergence\\_with\\_integrated\\_denoising\\_and\\_RoI\\_mechanism",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Do-DETR: enhancing DETR training convergence with integrated denoising and RoI mechanism | Request PDF \\- ResearchGate,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "16",
+      "line_start": 299,
+      "line_end": 299,
+      "raw_text": "16. Paper Review: Deformable Transformers for End-to-End Object Detection., accessed October 31, 2025, [https://cenk-bircanoglu.medium.com/paper-review-deformable-transformers-for-end-to-end-object-detection-ed0a452f775f](https://cenk-bircanoglu.medium.com/paper-review-deformable-transformers-for-end-to-end-object-detection-ed0a452f775f)",
+      "parsed": {
+        "doi": null,
+        "url": "https://cenk-bircanoglu.medium.com/paper-review-deformable-transformers-for-end-to-end-object-detection-ed0a452f775f",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Paper Review: Deformable Transformers for End-to-End Object Detection.,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "17",
+      "line_start": 300,
+      "line_end": 300,
+      "raw_text": "17. SpeedDETR: Speed-aware Transformers for End-to-end Object Detection \\- Proceedings of Machine Learning Research, accessed October 31, 2025, [https://proceedings.mlr.press/v202/dong23b/dong23b.pdf](https://proceedings.mlr.press/v202/dong23b/dong23b.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://proceedings.mlr.press/v202/dong23b/dong23b.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "SpeedDETR: Speed-aware Transformers for End-to-end Object Detection \\- Proceedings of Machine Learning Research,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "18",
+      "line_start": 301,
+      "line_end": 301,
+      "raw_text": "18. Accelerating DETR Convergence via Semantic-Aligned Matching \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang\\_Accelerating\\_DETR\\_Convergence\\_via\\_Semantic-Aligned\\_Matching\\_CVPR\\_2022\\_paper.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Accelerating_DETR_Convergence_via_Semantic-Aligned_Matching_CVPR_2022_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang\\_Accelerating\\_DETR\\_Convergence\\_via\\_Semantic-Aligned\\_Matching\\_CVPR\\_2022\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Accelerating DETR Convergence via Semantic-Aligned Matching \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "19",
+      "line_start": 302,
+      "line_end": 302,
+      "raw_text": "19. DN-DETR: Accelerate DETR Training by Introducing Query ... \\- arXiv, accessed October 31, 2025, [https://arxiv.org/pdf/2203.01305](https://arxiv.org/pdf/2203.01305)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/pdf/2203.01305",
+        "arxiv": "2203.01305",
+        "year": null,
+        "title_guess": "DN-DETR: Accelerate DETR Training by Introducing Query ... \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "20",
+      "line_start": 303,
+      "line_end": 303,
+      "raw_text": "20. DN-DETR: Accelerate DETR Training by Introducing Query DeNoising, accessed October 31, 2025, [https://www.computer.org/csdl/journal/tp/2024/04/10334480/1St7xbgtENa](https://www.computer.org/csdl/journal/tp/2024/04/10334480/1St7xbgtENa)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.computer.org/csdl/journal/tp/2024/04/10334480/1St7xbgtENa",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "21",
+      "line_start": 304,
+      "line_end": 304,
+      "raw_text": "21. Deformable DETR: Deformable Transformers for End-to-End Object Detection. \\- GitHub, accessed October 31, 2025, [https://github.com/fundamentalvision/Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR)",
+      "parsed": {
+        "doi": null,
+        "url": "https://github.com/fundamentalvision/Deformable-DETR",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Deformable DETR: Deformable Transformers for End-to-End Object Detection. \\- GitHub,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "22",
+      "line_start": 305,
+      "line_end": 305,
+      "raw_text": "22. Deformable DETR: Deformable Transformers for End-to-End Object ..., accessed October 31, 2025, [https://arxiv.org/abs/2010.04159](https://arxiv.org/abs/2010.04159)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2010.04159",
+        "arxiv": "2010.04159",
+        "year": null,
+        "title_guess": "Deformable DETR: Deformable Transformers for End-to-End Object ...,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "23",
+      "line_start": 306,
+      "line_end": 306,
+      "raw_text": "23. Deformable DETR: Deformable Transformers for End-to-End Object Detection | OpenReview, accessed October 31, 2025, [https://openreview.net/forum?id=gZ9hCDWe6ke](https://openreview.net/forum?id=gZ9hCDWe6ke)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openreview.net/forum?id=gZ9hCDWe6ke",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Deformable DETR: Deformable Transformers for End-to-End Object Detection | OpenReview,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "24",
+      "line_start": 307,
+      "line_end": 307,
+      "raw_text": "24. Deformable DETR \\- Hugging Face, accessed October 31, 2025, [https://huggingface.co/docs/transformers/v4.41.2/model\\_doc/deformable\\_detr](https://huggingface.co/docs/transformers/v4.41.2/model_doc/deformable_detr)",
+      "parsed": {
+        "doi": null,
+        "url": "https://huggingface.co/docs/transformers/v4.41.2/model\\_doc/deformable\\_detr",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Deformable DETR \\- Hugging Face,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "25",
+      "line_start": 308,
+      "line_end": 308,
+      "raw_text": "25. Deformable DETR \\- YouTube, accessed October 31, 2025, [https://www.youtube.com/watch?v=9UG4amweIjk](https://www.youtube.com/watch?v=9UG4amweIjk)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.youtube.com/watch?v=9UG4amweIjk",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Deformable DETR \\- YouTube,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "26",
+      "line_start": 309,
+      "line_end": 309,
+      "raw_text": "26. Conditional DETR for Fast Training Convergence \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2108.06152](https://arxiv.org/html/2108.06152)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2108.06152",
+        "arxiv": "2108.06152",
+        "year": null,
+        "title_guess": "Conditional DETR for Fast Training Convergence \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "27",
+      "line_start": 310,
+      "line_end": 310,
+      "raw_text": "27. \\[PDF\\] Accelerating DETR Convergence via Semantic-Aligned Matching, accessed October 31, 2025, [https://www.semanticscholar.org/paper/2402865faf1af2f2c1286ebdd2585e1ca806a935](https://www.semanticscholar.org/paper/2402865faf1af2f2c1286ebdd2585e1ca806a935)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.semanticscholar.org/paper/2402865faf1af2f2c1286ebdd2585e1ca806a935",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "\\[PDF\\] Accelerating DETR Convergence via Semantic-Aligned Matching,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "28",
+      "line_start": 311,
+      "line_end": 311,
+      "raw_text": "28. Object Detection with Transformers: A Review \\- PMC, accessed October 31, 2025, [https://pmc.ncbi.nlm.nih.gov/articles/PMC12526829/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12526829/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12526829/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Object Detection with Transformers: A Review \\- PMC,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "29",
+      "line_start": 312,
+      "line_end": 312,
+      "raw_text": "29. DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR | Request PDF \\- ResearchGate, accessed October 31, 2025, [https://www.researchgate.net/publication/358232679\\_DAB-DETR\\_Dynamic\\_Anchor\\_Boxes\\_are\\_Better\\_Queries\\_for\\_DETR](https://www.researchgate.net/publication/358232679_DAB-DETR_Dynamic_Anchor_Boxes_are_Better_Queries_for_DETR)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.researchgate.net/publication/358232679\\_DAB-DETR\\_Dynamic\\_Anchor\\_Boxes\\_are\\_Better\\_Queries\\_for\\_DETR",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR | Request PDF \\- ResearchGate,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "30",
+      "line_start": 313,
+      "line_end": 313,
+      "raw_text": "30. \\[ICLR 2022\\] Official implementation of the paper \"DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR\" \\- GitHub, accessed October 31, 2025, [https://github.com/IDEA-Research/DAB-DETR](https://github.com/IDEA-Research/DAB-DETR)",
+      "parsed": {
+        "doi": null,
+        "url": "https://github.com/IDEA-Research/DAB-DETR",
+        "arxiv": null,
+        "year": "2022",
+        "title_guess": "\\[ICLR 2022\\] Official implementation of the paper \"DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR\" \\- GitHub,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "31",
+      "line_start": 314,
+      "line_end": 314,
+      "raw_text": "31. DAB-DETR \\- Hugging Face, accessed October 31, 2025, [https://huggingface.co/docs/transformers/model\\_doc/dab-detr](https://huggingface.co/docs/transformers/model_doc/dab-detr)",
+      "parsed": {
+        "doi": null,
+        "url": "https://huggingface.co/docs/transformers/model\\_doc/dab-detr",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DAB-DETR \\- Hugging Face,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "32",
+      "line_start": 315,
+      "line_end": 315,
+      "raw_text": "32. DAB-DETR \\- Hugging Face, accessed October 31, 2025, [https://huggingface.co/docs/transformers/main/model\\_doc/dab-detr](https://huggingface.co/docs/transformers/main/model_doc/dab-detr)",
+      "parsed": {
+        "doi": null,
+        "url": "https://huggingface.co/docs/transformers/main/model\\_doc/dab-detr",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DAB-DETR \\- Hugging Face,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "33",
+      "line_start": 316,
+      "line_end": 316,
+      "raw_text": "33. DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR, accessed October 31, 2025, [https://arxiv.org/pdf/2201.12329](https://arxiv.org/pdf/2201.12329)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/pdf/2201.12329",
+        "arxiv": "2201.12329",
+        "year": null,
+        "title_guess": "DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "34",
+      "line_start": 317,
+      "line_end": 317,
+      "raw_text": "34. Enhancing DETR's Variants through Improved Content Query and Similar Query Aggregation \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2405.03318v1](https://arxiv.org/html/2405.03318v1)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2405.03318v1",
+        "arxiv": "2405.03318",
+        "year": null,
+        "title_guess": "Enhancing DETR's Variants through Improved Content Query and Similar Query Aggregation \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "35",
+      "line_start": 318,
+      "line_end": 318,
+      "raw_text": "35. \\[2203.01305\\] DN-DETR: Accelerate DETR Training by Introducing Query DeNoising \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2203.01305](https://arxiv.org/abs/2203.01305)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2203.01305",
+        "arxiv": "2203.01305",
+        "year": null,
+        "title_guess": "\\[2203.01305\\] DN-DETR: Accelerate DETR Training by Introducing Query DeNoising \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "36",
+      "line_start": 319,
+      "line_end": 319,
+      "raw_text": "36. Adding Training Noise To Improve Detections — The Denoising Mechanism | by Uri Almog | Data Science Collective | Medium, accessed October 31, 2025, [https://medium.com/data-science-collective/adding-training-noise-to-improve-detections-the-denoising-mechanism-2060b52f0d23](https://medium.com/data-science-collective/adding-training-noise-to-improve-detections-the-denoising-mechanism-2060b52f0d23)",
+      "parsed": {
+        "doi": null,
+        "url": "https://medium.com/data-science-collective/adding-training-noise-to-improve-detections-the-denoising-mechanism-2060b52f0d23",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Adding Training Noise To Improve Detections — The Denoising Mechanism | by Uri Almog | Data Science Collective | Medium,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "37",
+      "line_start": 320,
+      "line_end": 320,
+      "raw_text": "37. DN-DETR: Accelerate DETR Training by Introducing Query DeNoising \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/CVPR2022/papers/Li\\_DN-DETR\\_Accelerate\\_DETR\\_Training\\_by\\_Introducing\\_Query\\_DeNoising\\_CVPR\\_2022\\_paper.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li\\_DN-DETR\\_Accelerate\\_DETR\\_Training\\_by\\_Introducing\\_Query\\_DeNoising\\_CVPR\\_2022\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "38",
+      "line_start": 321,
+      "line_end": 321,
+      "raw_text": "38. DINO: DETR WITH IMPROVED DENOISING ANCHOR \\- OpenReview, accessed October 31, 2025, [https://openreview.net/pdf?id=3mRwyG5one](https://openreview.net/pdf?id=3mRwyG5one)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openreview.net/pdf?id=3mRwyG5one",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DINO: DETR WITH IMPROVED DENOISING ANCHOR \\- OpenReview,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "39",
+      "line_start": 322,
+      "line_end": 322,
+      "raw_text": "39. DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection, accessed October 31, 2025, [https://www.researchgate.net/publication/359079872\\_DINO\\_DETR\\_with\\_Improved\\_DeNoising\\_Anchor\\_Boxes\\_for\\_End-to-End\\_Object\\_Detection](https://www.researchgate.net/publication/359079872_DINO_DETR_with_Improved_DeNoising_Anchor_Boxes_for_End-to-End_Object_Detection)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.researchgate.net/publication/359079872\\_DINO\\_DETR\\_with\\_Improved\\_DeNoising\\_Anchor\\_Boxes\\_for\\_End-to-End\\_Object\\_Detection",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "40",
+      "line_start": 323,
+      "line_end": 323,
+      "raw_text": "40. \\[2203.03605\\] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2203.03605](https://arxiv.org/abs/2203.03605)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2203.03605",
+        "arxiv": "2203.03605",
+        "year": null,
+        "title_guess": "\\[2203.03605\\] DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "41",
+      "line_start": 324,
+      "line_end": 324,
+      "raw_text": "41. arxiv.org, accessed October 31, 2025, [https://arxiv.org/abs/2405.03318](https://arxiv.org/abs/2405.03318)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2405.03318",
+        "arxiv": "2405.03318",
+        "year": null,
+        "title_guess": "arxiv.org,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "42",
+      "line_start": 325,
+      "line_end": 325,
+      "raw_text": "42. EASE-DETR: Easing the Competition among Object Queries \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/CVPR2024/papers/Gao\\_EASE-DETR\\_Easing\\_the\\_Competition\\_among\\_Object\\_Queries\\_CVPR\\_2024\\_paper.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_EASE-DETR_Easing_the_Competition_among_Object_Queries_CVPR_2024_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Gao\\_EASE-DETR\\_Easing\\_the\\_Competition\\_among\\_Object\\_Queries\\_CVPR\\_2024\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "EASE-DETR: Easing the Competition among Object Queries \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "43",
+      "line_start": 326,
+      "line_end": 326,
+      "raw_text": "43. RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2409.08475v1](https://arxiv.org/html/2409.08475v1)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2409.08475v1",
+        "arxiv": "2409.08475",
+        "year": null,
+        "title_guess": "RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "44",
+      "line_start": 327,
+      "line_end": 327,
+      "raw_text": "44. Less is More: Focus Attention for Efficient DETR \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng\\_Less\\_is\\_More\\_Focus\\_Attention\\_for\\_Efficient\\_DETR\\_ICCV\\_2023\\_paper.pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng_Less_is_More_Focus_Attention_for_Efficient_DETR_ICCV_2023_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zheng\\_Less\\_is\\_More\\_Focus\\_Attention\\_for\\_Efficient\\_DETR\\_ICCV\\_2023\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Less is More: Focus Attention for Efficient DETR \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "45",
+      "line_start": 328,
+      "line_end": 328,
+      "raw_text": "45. RT-DETR: The Next Evolution in Real-Time Object Detection | by Nandini Lokesh Reddy, accessed October 31, 2025, [https://medium.com/@nandinilreddy/rt-detr-the-next-evolution-in-real-time-object-detection-aa1c7880f368](https://medium.com/@nandinilreddy/rt-detr-the-next-evolution-in-real-time-object-detection-aa1c7880f368)",
+      "parsed": {
+        "doi": null,
+        "url": "https://medium.com/@nandinilreddy/rt-detr-the-next-evolution-in-real-time-object-detection-aa1c7880f368",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "RT-DETR: The Next Evolution in Real-Time Object Detection | by Nandini Lokesh Reddy,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "46",
+      "line_start": 329,
+      "line_end": 329,
+      "raw_text": "46. arXiv:2406.03459v1 \\[cs.CV\\] 5 Jun 2024, accessed October 31, 2025, [https://arxiv.org/pdf/2406.03459](https://arxiv.org/pdf/2406.03459)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/pdf/2406.03459",
+        "arxiv": "2406.03459",
+        "year": "2024",
+        "title_guess": "arXiv:2406.03459v1 \\[cs.CV\\] 5 Jun 2024,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "47",
+      "line_start": 330,
+      "line_end": 330,
+      "raw_text": "47. LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2406.03459v1](https://arxiv.org/html/2406.03459v1)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2406.03459v1",
+        "arxiv": "2406.03459",
+        "year": null,
+        "title_guess": "LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "48",
+      "line_start": 331,
+      "line_end": 331,
+      "raw_text": "48. \\[2409.08475\\] RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2409.08475](https://arxiv.org/abs/2409.08475)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2409.08475",
+        "arxiv": "2409.08475",
+        "year": null,
+        "title_guess": "\\[2409.08475\\] RT-DETRv3: Real-time End-to-End Object Detection with Hierarchical Dense Positive Supervision \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "49",
+      "line_start": 332,
+      "line_end": 332,
+      "raw_text": "49. \\[2211.12860\\] DETRs with Collaborative Hybrid Assignments Training \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2211.12860](https://arxiv.org/abs/2211.12860)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2211.12860",
+        "arxiv": "2211.12860",
+        "year": null,
+        "title_guess": "\\[2211.12860\\] DETRs with Collaborative Hybrid Assignments Training \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "50",
+      "line_start": 333,
+      "line_end": 333,
+      "raw_text": "50. \\[2502.17843\\] Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2502.17843](https://arxiv.org/abs/2502.17843)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2502.17843",
+        "arxiv": "2502.17843",
+        "year": null,
+        "title_guess": "\\[2502.17843\\] Automatic Vehicle Detection using DETR: A Transformer-Based Approach for Navigating Treacherous Roads \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "51",
+      "line_start": 334,
+      "line_end": 334,
+      "raw_text": "51. Panoptic SegFormer: Delving Deeper into Panoptic ... \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2109.03814](https://arxiv.org/abs/2109.03814)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2109.03814",
+        "arxiv": "2109.03814",
+        "year": null,
+        "title_guess": "Panoptic SegFormer: Delving Deeper into Panoptic ... \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "52",
+      "line_start": 335,
+      "line_end": 335,
+      "raw_text": "52. Code & Models for 3DETR \\- an End-to-end transformer model for 3D object detection \\- GitHub, accessed October 31, 2025, [https://github.com/facebookresearch/3detr](https://github.com/facebookresearch/3detr)",
+      "parsed": {
+        "doi": null,
+        "url": "https://github.com/facebookresearch/3detr",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Code & Models for 3DETR \\- an End-to-end transformer model for 3D object detection \\- GitHub,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "53",
+      "line_start": 336,
+      "line_end": 336,
+      "raw_text": "53. WangYueFt/detr3d \\- GitHub, accessed October 31, 2025, [https://github.com/WangYueFt/detr3d](https://github.com/WangYueFt/detr3d)",
+      "parsed": {
+        "doi": null,
+        "url": "https://github.com/WangYueFt/detr3d",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "WangYueFt/detr3d \\- GitHub,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "54",
+      "line_start": 337,
+      "line_end": 337,
+      "raw_text": "54. DETR3D, accessed October 31, 2025, [https://tsinghua-mars-lab.github.io/detr3d/](https://tsinghua-mars-lab.github.io/detr3d/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://tsinghua-mars-lab.github.io/detr3d/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETR3D,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "55",
+      "line_start": 338,
+      "line_end": 338,
+      "raw_text": "55. MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang\\_MonoDETR\\_Depth-guided\\_Transformer\\_for\\_Monocular\\_3D\\_Object\\_Detection\\_ICCV\\_2023\\_paper.pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang_MonoDETR_Depth-guided_Transformer_for_Monocular_3D_Object_Detection_ICCV_2023_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zhang\\_MonoDETR\\_Depth-guided\\_Transformer\\_for\\_Monocular\\_3D\\_Object\\_Detection\\_ICCV\\_2023\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "56",
+      "line_start": 339,
+      "line_end": 339,
+      "raw_text": "56. MOTR: End-to-End Multi-Object Tracking with Transformers – CV ..., accessed October 31, 2025, [https://cv-tricks.com/how-to/motr-end-to-end-multi-object-tracking-with-transformers/](https://cv-tricks.com/how-to/motr-end-to-end-multi-object-tracking-with-transformers/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://cv-tricks.com/how-to/motr-end-to-end-multi-object-tracking-with-transformers/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "MOTR: End-to-End Multi-Object Tracking with Transformers – CV ...,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "57",
+      "line_start": 340,
+      "line_end": 340,
+      "raw_text": "57. MOTR: End-to-End Multiple-Object Tracking with Transformer, accessed October 31, 2025, [https://www.ecva.net/papers/eccv\\_2022/papers\\_ECCV/papers/136870648.pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136870648.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.ecva.net/papers/eccv\\_2022/papers\\_ECCV/papers/136870648.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "MOTR: End-to-End Multiple-Object Tracking with Transformer,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "58",
+      "line_start": 341,
+      "line_end": 341,
+      "raw_text": "58. Advancing State of the Art Object Detection (Again) with RF-DETR, accessed October 31, 2025, [https://blog.roboflow.com/rf-detr-nano-small-medium/](https://blog.roboflow.com/rf-detr-nano-small-medium/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://blog.roboflow.com/rf-detr-nano-small-medium/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Advancing State of the Art Object Detection (Again) with RF-DETR,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "59",
+      "line_start": 342,
+      "line_end": 342,
+      "raw_text": "59. Benchmarks \\- RF-DETR \\- Roboflow, accessed October 31, 2025, [https://rfdetr.roboflow.com/1.3.0/learn/benchmarks/](https://rfdetr.roboflow.com/1.3.0/learn/benchmarks/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://rfdetr.roboflow.com/1.3.0/learn/benchmarks/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Benchmarks \\- RF-DETR \\- Roboflow,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "60",
+      "line_start": 343,
+      "line_end": 343,
+      "raw_text": "60. NAN-DETR: noising multi-anchor makes DETR better for object detection \\- Frontiers, accessed October 31, 2025, [https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1484088/full](https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1484088/full)",
+      "parsed": {
+        "doi": "10.3389/fnbot.2024.1484088/full",
+        "url": "https://www.frontiersin.org/journals/neurorobotics/articles/10.3389/fnbot.2024.1484088/full",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "NAN-DETR: noising multi-anchor makes DETR better for object detection \\- Frontiers,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "61",
+      "line_start": 344,
+      "line_end": 344,
+      "raw_text": "61. Report: Weather-Aware Object Detection Transformer for Domain Adaptation \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2504.10877v1](https://arxiv.org/html/2504.10877v1)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2504.10877v1",
+        "arxiv": "2504.10877",
+        "year": null,
+        "title_guess": "Report: Weather-Aware Object Detection Transformer for Domain Adaptation \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "62",
+      "line_start": 345,
+      "line_end": 345,
+      "raw_text": "62. Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2505.05741v2](https://arxiv.org/html/2505.05741v2)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2505.05741v2",
+        "arxiv": "2505.05741",
+        "year": null,
+        "title_guess": "Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "63",
+      "line_start": 346,
+      "line_end": 346,
+      "raw_text": "63. Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2505.05741v1](https://arxiv.org/html/2505.05741v1)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2505.05741v1",
+        "arxiv": "2505.05741",
+        "year": null,
+        "title_guess": "Dome-DETR: DETR with Density-Oriented Feature-Query Manipulation for Efficient Tiny Object Detection \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "64",
+      "line_start": 347,
+      "line_end": 347,
+      "raw_text": "64. Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2403.06892v2](https://arxiv.org/html/2403.06892v2)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2403.06892v2",
+        "arxiv": "2403.06892",
+        "year": null,
+        "title_guess": "Real-time Transformer-based Open-Vocabulary Detection with Efficient Fusion Head \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "65",
+      "line_start": 348,
+      "line_end": 348,
+      "raw_text": "65. RF-DETR: A SOTA Real-Time Object Detection Model \\- Roboflow Blog, accessed October 31, 2025, [https://blog.roboflow.com/rf-detr/](https://blog.roboflow.com/rf-detr/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://blog.roboflow.com/rf-detr/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "RF-DETR: A SOTA Real-Time Object Detection Model \\- Roboflow Blog,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "66",
+      "line_start": 349,
+      "line_end": 349,
+      "raw_text": "66. End-to-End Object Detection with Transformers | springerprofessional.de, accessed October 31, 2025, [https://www.springerprofessional.de/en/end-to-end-object-detection-with-transformers/18547378](https://www.springerprofessional.de/en/end-to-end-object-detection-with-transformers/18547378)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.springerprofessional.de/en/end-to-end-object-detection-with-transformers/18547378",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "End-to-End Object Detection with Transformers | springerprofessional.de,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "67",
+      "line_start": 350,
+      "line_end": 350,
+      "raw_text": "67. End-to-End Object Detection with Transformers | Request PDF \\- ResearchGate, accessed October 31, 2025, [https://www.researchgate.net/publication/346022004\\_End-to-End\\_Object\\_Detection\\_with\\_Transformers](https://www.researchgate.net/publication/346022004_End-to-End_Object_Detection_with_Transformers)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.researchgate.net/publication/346022004\\_End-to-End\\_Object\\_Detection\\_with\\_Transformers",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "End-to-End Object Detection with Transformers | Request PDF \\- ResearchGate,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "68",
+      "line_start": 351,
+      "line_end": 351,
+      "raw_text": "68. End-to-End Object Detection with Transformers \\- Deep Learning Reviews, accessed October 31, 2025, [https://www.dl.reviews/2020/06/06/object-detection-with-transformers/](https://www.dl.reviews/2020/06/06/object-detection-with-transformers/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.dl.reviews/2020/06/06/object-detection-with-transformers/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "End-to-End Object Detection with Transformers \\- Deep Learning Reviews,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "69",
+      "line_start": 352,
+      "line_end": 352,
+      "raw_text": "69. DN-DETR: Accelerate DETR Training by Introducing Query DeNoising \\- ResearchGate, accessed October 31, 2025, [https://www.researchgate.net/publication/363906792\\_DN-DETR\\_Accelerate\\_DETR\\_Training\\_by\\_Introducing\\_Query\\_DeNoising](https://www.researchgate.net/publication/363906792_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.researchgate.net/publication/363906792\\_DN-DETR\\_Accelerate\\_DETR\\_Training\\_by\\_Introducing\\_Query\\_DeNoising",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising \\- ResearchGate,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "70",
+      "line_start": 353,
+      "line_end": 353,
+      "raw_text": "70. DN-DETR: Accelerate DETR Training by Introducing Query DeNoising \\- PubMed, accessed October 31, 2025, [https://pubmed.ncbi.nlm.nih.gov/38019624/](https://pubmed.ncbi.nlm.nih.gov/38019624/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://pubmed.ncbi.nlm.nih.gov/38019624/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DN-DETR: Accelerate DETR Training by Introducing Query DeNoising \\- PubMed,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "71",
+      "line_start": 354,
+      "line_end": 354,
+      "raw_text": "71. Delving Deeper into Panoptic Segmentation with Transformers \\- arXiv, accessed October 31, 2025, [https://arxiv.org/pdf/2109.03814](https://arxiv.org/pdf/2109.03814)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/pdf/2109.03814",
+        "arxiv": "2109.03814",
+        "year": null,
+        "title_guess": "Delving Deeper into Panoptic Segmentation with Transformers \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "72",
+      "line_start": 355,
+      "line_end": 355,
+      "raw_text": "72. This is the official repo of Panoptic SegFormer \\[CVPR'22\\] \\- GitHub, accessed October 31, 2025, [https://github.com/zhiqi-li/Panoptic-SegFormer](https://github.com/zhiqi-li/Panoptic-SegFormer)",
+      "parsed": {
+        "doi": null,
+        "url": "https://github.com/zhiqi-li/Panoptic-SegFormer",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "This is the official repo of Panoptic SegFormer \\[CVPR'22\\] \\- GitHub,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "73",
+      "line_start": 356,
+      "line_end": 356,
+      "raw_text": "73. Delving Deeper Into Panoptic Segmentation With Transformers \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/CVPR2022/papers/Li\\_Panoptic\\_SegFormer\\_Delving\\_Deeper\\_Into\\_Panoptic\\_Segmentation\\_With\\_Transformers\\_CVPR\\_2022\\_paper.pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Panoptic_SegFormer_Delving_Deeper_Into_Panoptic_Segmentation_With_Transformers_CVPR_2022_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2022/papers/Li\\_Panoptic\\_SegFormer\\_Delving\\_Deeper\\_Into\\_Panoptic\\_Segmentation\\_With\\_Transformers\\_CVPR\\_2022\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Delving Deeper Into Panoptic Segmentation With Transformers \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "74",
+      "line_start": 357,
+      "line_end": 357,
+      "raw_text": "74. Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers | Request PDF \\- ResearchGate, accessed October 31, 2025, [https://www.researchgate.net/publication/362153252\\_Panoptic\\_SegFormer\\_Delving\\_Deeper\\_into\\_Panoptic\\_Segmentation\\_with\\_Transformers](https://www.researchgate.net/publication/362153252_Panoptic_SegFormer_Delving_Deeper_into_Panoptic_Segmentation_with_Transformers)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.researchgate.net/publication/362153252\\_Panoptic\\_SegFormer\\_Delving\\_Deeper\\_into\\_Panoptic\\_Segmentation\\_with\\_Transformers",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Panoptic SegFormer: Delving Deeper into Panoptic Segmentation with Transformers | Request PDF \\- ResearchGate,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "75",
+      "line_start": 358,
+      "line_end": 358,
+      "raw_text": "75. \\[PDF\\] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR | Semantic Scholar, accessed October 31, 2025, [https://www.semanticscholar.org/paper/DAB-DETR%3A-Dynamic-Anchor-Boxes-are-Better-Queries-Liu-Li/004f1d2b1b7d7dcecafdd94daee9c1b0aa3e65cf](https://www.semanticscholar.org/paper/DAB-DETR%3A-Dynamic-Anchor-Boxes-are-Better-Queries-Liu-Li/004f1d2b1b7d7dcecafdd94daee9c1b0aa3e65cf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.semanticscholar.org/paper/DAB-DETR%3A-Dynamic-Anchor-Boxes-are-Better-Queries-Liu-Li/004f1d2b1b7d7dcecafdd94daee9c1b0aa3e65cf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "\\[PDF\\] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR | Semantic Scholar,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "76",
+      "line_start": 359,
+      "line_end": 359,
+      "raw_text": "76. \\[2201.12329\\] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2201.12329](https://arxiv.org/abs/2201.12329)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2201.12329",
+        "arxiv": "2201.12329",
+        "year": null,
+        "title_guess": "\\[2201.12329\\] DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "77",
+      "line_start": 360,
+      "line_end": 360,
+      "raw_text": "77. Conditional DETR for Fast Training Convergence \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/ICCV2021/papers/Meng\\_Conditional\\_DETR\\_for\\_Fast\\_Training\\_Convergence\\_ICCV\\_2021\\_paper.pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Meng_Conditional_DETR_for_Fast_Training_Convergence_ICCV_2021_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/ICCV2021/papers/Meng\\_Conditional\\_DETR\\_for\\_Fast\\_Training\\_Convergence\\_ICCV\\_2021\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Conditional DETR for Fast Training Convergence \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "78",
+      "line_start": 361,
+      "line_end": 361,
+      "raw_text": "78. Open-Vocabulary DETR with Conditional Matching, accessed October 31, 2025, [https://www.ecva.net/papers/eccv\\_2022/papers\\_ECCV/papers/136690107.pdf](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690107.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.ecva.net/papers/eccv\\_2022/papers\\_ECCV/papers/136690107.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Open-Vocabulary DETR with Conditional Matching,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "79",
+      "line_start": 362,
+      "line_end": 362,
+      "raw_text": "79. \\[PDF\\] Conditional DETR for Fast Training Convergence \\- Semantic Scholar, accessed October 31, 2025, [https://www.semanticscholar.org/paper/Conditional-DETR-for-Fast-Training-Convergence-Meng-Chen/1cd6b0f41d62aca38ba5a69db10e79c05e618c21](https://www.semanticscholar.org/paper/Conditional-DETR-for-Fast-Training-Convergence-Meng-Chen/1cd6b0f41d62aca38ba5a69db10e79c05e618c21)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.semanticscholar.org/paper/Conditional-DETR-for-Fast-Training-Convergence-Meng-Chen/1cd6b0f41d62aca38ba5a69db10e79c05e618c21",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "\\[PDF\\] Conditional DETR for Fast Training Convergence \\- Semantic Scholar,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "80",
+      "line_start": 363,
+      "line_end": 363,
+      "raw_text": "80. An End-to-End Transformer Model for 3D Object Detection, accessed October 31, 2025, [https://facebookresearch.github.io/3detr/](https://facebookresearch.github.io/3detr/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://facebookresearch.github.io/3detr/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "An End-to-End Transformer Model for 3D Object Detection,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "81",
+      "line_start": 364,
+      "line_end": 364,
+      "raw_text": "81. An End-to-End Transformer Model for 3D Object Detection | Request PDF \\- ResearchGate, accessed October 31, 2025, [https://www.researchgate.net/publication/354652676\\_An\\_End-to-End\\_Transformer\\_Model\\_for\\_3D\\_Object\\_Detection](https://www.researchgate.net/publication/354652676_An_End-to-End_Transformer_Model_for_3D_Object_Detection)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.researchgate.net/publication/354652676\\_An\\_End-to-End\\_Transformer\\_Model\\_for\\_3D\\_Object\\_Detection",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "An End-to-End Transformer Model for 3D Object Detection | Request PDF \\- ResearchGate,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "82",
+      "line_start": 365,
+      "line_end": 365,
+      "raw_text": "82. RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning. \\- GitHub, accessed October 31, 2025, [https://github.com/roboflow/rf-detr](https://github.com/roboflow/rf-detr)",
+      "parsed": {
+        "doi": null,
+        "url": "https://github.com/roboflow/rf-detr",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning. \\- GitHub,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "83",
+      "line_start": 366,
+      "line_end": 366,
+      "raw_text": "83. RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity \\- arXiv, accessed October 31, 2025, [https://arxiv.org/html/2504.13099v1](https://arxiv.org/html/2504.13099v1)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2504.13099v1",
+        "arxiv": "2504.13099",
+        "year": null,
+        "title_guess": "RF-DETR Object Detection vs YOLOv12 : A Study of Transformer-based and CNN-based Architectures for Single-Class and Multi-Class Greenfruit Detection in Complex Orchard Environments Under Label Ambiguity \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "84",
+      "line_start": 367,
+      "line_end": 367,
+      "raw_text": "84. Sparse DETR \\- ICLR, accessed October 31, 2025, [https://iclr.cc/media/iclr-2022/Slides/7017.pdf](https://iclr.cc/media/iclr-2022/Slides/7017.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://iclr.cc/media/iclr-2022/Slides/7017.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Sparse DETR \\- ICLR,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "85",
+      "line_start": 368,
+      "line_end": 368,
+      "raw_text": "85. Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/CVPR2024/papers/Shehzadi\\_Sparse\\_Semi-DETR\\_Sparse\\_Learnable\\_Queries\\_for\\_Semi-Supervised\\_Object\\_Detection\\_CVPR\\_2024\\_paper.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Shehzadi_Sparse_Semi-DETR_Sparse_Learnable_Queries_for_Semi-Supervised_Object_Detection_CVPR_2024_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Shehzadi\\_Sparse\\_Semi-DETR\\_Sparse\\_Learnable\\_Queries\\_for\\_Semi-Supervised\\_Object\\_Detection\\_CVPR\\_2024\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Sparse Semi-DETR: Sparse Learnable Queries for Semi-Supervised Object Detection \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "86",
+      "line_start": 369,
+      "line_end": 369,
+      "raw_text": "86. DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries, accessed October 31, 2025, [https://patrick-llgc.github.io/Learning-Deep-Learning/paper\\_notes/detr3d.html](https://patrick-llgc.github.io/Learning-Deep-Learning/paper_notes/detr3d.html)",
+      "parsed": {
+        "doi": null,
+        "url": "https://patrick-llgc.github.io/Learning-Deep-Learning/paper\\_notes/detr3d.html",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "87",
+      "line_start": 370,
+      "line_end": 370,
+      "raw_text": "87. DQ3D: Depth-guided Query for Transformer-Based 3D Object Detection in Traffic Scenarios, accessed October 31, 2025, [https://arxiv.org/html/2510.23144v1](https://arxiv.org/html/2510.23144v1)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/html/2510.23144v1",
+        "arxiv": "2510.23144",
+        "year": null,
+        "title_guess": "DQ3D: Depth-guided Query for Transformer-Based 3D Object Detection in Traffic Scenarios,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "88",
+      "line_start": 371,
+      "line_end": 371,
+      "raw_text": "88. \\[PDF\\] DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries, accessed October 31, 2025, [https://www.semanticscholar.org/paper/DETR3D%3A-3D-Object-Detection-from-Multi-view-Images-Wang-Guizilini/48e2d76d35b44edc21d09d460021103ce997c804](https://www.semanticscholar.org/paper/DETR3D%3A-3D-Object-Detection-from-Multi-view-Images-Wang-Guizilini/48e2d76d35b44edc21d09d460021103ce997c804)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.semanticscholar.org/paper/DETR3D%3A-3D-Object-Detection-from-Multi-view-Images-Wang-Guizilini/48e2d76d35b44edc21d09d460021103ce997c804",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "\\[PDF\\] DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "89",
+      "line_start": 372,
+      "line_end": 372,
+      "raw_text": "89. Mix and Match: ByteTrack with DETR | CS231n \\- Stanford University, accessed October 31, 2025, [https://cs231n.stanford.edu/2024/papers/mix-and-match-bytetrack-with-detr.pdf](https://cs231n.stanford.edu/2024/papers/mix-and-match-bytetrack-with-detr.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://cs231n.stanford.edu/2024/papers/mix-and-match-bytetrack-with-detr.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Mix and Match: ByteTrack with DETR | CS231n \\- Stanford University,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "90",
+      "line_start": 373,
+      "line_end": 373,
+      "raw_text": "90. ZhangGongjie/SAM-DETR \\- Official PyTorch Implementation \\- GitHub, accessed October 31, 2025, [https://github.com/ZhangGongjie/SAM-DETR](https://github.com/ZhangGongjie/SAM-DETR)",
+      "parsed": {
+        "doi": null,
+        "url": "https://github.com/ZhangGongjie/SAM-DETR",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "ZhangGongjie/SAM-DETR \\- Official PyTorch Implementation \\- GitHub,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "91",
+      "line_start": 374,
+      "line_end": 374,
+      "raw_text": "91. Align-DETR: Enhancing End-to-end Object Detection with Aligned Loss \\- BMVA Archive, accessed October 31, 2025, [https://bmva-archive.org.uk/bmvc/2024/papers/Paper\\_211/paper.pdf](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_211/paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://bmva-archive.org.uk/bmvc/2024/papers/Paper\\_211/paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Align-DETR: Enhancing End-to-end Object Detection with Aligned Loss \\- BMVA Archive,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "92",
+      "line_start": 375,
+      "line_end": 375,
+      "raw_text": "92. \\[2203.06883\\] Accelerating DETR Convergence via Semantic-Aligned Matching \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2203.06883](https://arxiv.org/abs/2203.06883)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2203.06883",
+        "arxiv": "2203.06883",
+        "year": null,
+        "title_guess": "\\[2203.06883\\] Accelerating DETR Convergence via Semantic-Aligned Matching \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "93",
+      "line_start": 376,
+      "line_end": 376,
+      "raw_text": "93. \\[2502.00315\\] MonoDINO-DETR: Depth-Enhanced Monocular 3D Object Detection Using a Vision Foundation Model \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2502.00315](https://arxiv.org/abs/2502.00315)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2502.00315",
+        "arxiv": "2502.00315",
+        "year": null,
+        "title_guess": "\\[2502.00315\\] MonoDINO-DETR: Depth-Enhanced Monocular 3D Object Detection Using a Vision Foundation Model \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "94",
+      "line_start": 377,
+      "line_end": 377,
+      "raw_text": "94. IDEA-Research/DINO: \\[ICLR 2023\\] Official implementation of the paper \"DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection\" \\- GitHub, accessed October 31, 2025, [https://github.com/IDEA-Research/DINO](https://github.com/IDEA-Research/DINO)",
+      "parsed": {
+        "doi": null,
+        "url": "https://github.com/IDEA-Research/DINO",
+        "arxiv": null,
+        "year": "2023",
+        "title_guess": "IDEA-Research/DINO: \\[ICLR 2023\\] Official implementation of the paper \"DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection\" \\- GitHub,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "95",
+      "line_start": 378,
+      "line_end": 378,
+      "raw_text": "95. Dino | PDF | Applied Mathematics | Computing \\- Scribd, accessed October 31, 2025, [https://www.scribd.com/document/932263242/Dino](https://www.scribd.com/document/932263242/Dino)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.scribd.com/document/932263242/Dino",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Dino | PDF | Applied Mathematics | Computing \\- Scribd,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "96",
+      "line_start": 379,
+      "line_end": 379,
+      "raw_text": "96. DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection, accessed October 31, 2025, [https://openreview.net/forum?id=3mRwyG5one](https://openreview.net/forum?id=3mRwyG5one)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openreview.net/forum?id=3mRwyG5one",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "97",
+      "line_start": 380,
+      "line_end": 380,
+      "raw_text": "97. DETRs Beat YOLOs on Real-time Object Detection \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao\\_DETRs\\_Beat\\_YOLOs\\_on\\_Real-time\\_Object\\_Detection\\_CVPR\\_2024\\_paper.pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_DETRs_Beat_YOLOs_on_Real-time_Object_Detection_CVPR_2024_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao\\_DETRs\\_Beat\\_YOLOs\\_on\\_Real-time\\_Object\\_Detection\\_CVPR\\_2024\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETRs Beat YOLOs on Real-time Object Detection \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "98",
+      "line_start": 381,
+      "line_end": 381,
+      "raw_text": "98. RT-DETR: Paper Explanation and Inference \\- DebuggerCafe, accessed October 31, 2025, [https://debuggercafe.com/rt-detr/](https://debuggercafe.com/rt-detr/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://debuggercafe.com/rt-detr/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "RT-DETR: Paper Explanation and Inference \\- DebuggerCafe,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "99",
+      "line_start": 382,
+      "line_end": 382,
+      "raw_text": "99. \\[2304.08069\\] DETRs Beat YOLOs on Real-time Object Detection \\- arXiv, accessed October 31, 2025, [https://arxiv.org/abs/2304.08069](https://arxiv.org/abs/2304.08069)",
+      "parsed": {
+        "doi": null,
+        "url": "https://arxiv.org/abs/2304.08069",
+        "arxiv": "2304.08069",
+        "year": null,
+        "title_guess": "\\[2304.08069\\] DETRs Beat YOLOs on Real-time Object Detection \\- arXiv,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "100",
+      "line_start": 383,
+      "line_end": 383,
+      "raw_text": "100. DETRs Beat YOLOs on Real-time Object Detection, accessed October 31, 2025, [https://zhao-yian.github.io/RTDETR/](https://zhao-yian.github.io/RTDETR/)",
+      "parsed": {
+        "doi": null,
+        "url": "https://zhao-yian.github.io/RTDETR/",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETRs Beat YOLOs on Real-time Object Detection,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "101",
+      "line_start": 384,
+      "line_end": 384,
+      "raw_text": "101. Deformable DETR: Deformable Transformers for End-to-End Object Detection | Request PDF \\- ResearchGate, accessed October 31, 2025, [https://www.researchgate.net/publication/344551949\\_Deformable\\_DETR\\_Deformable\\_Transformers\\_for\\_End-to-End\\_Object\\_Detection](https://www.researchgate.net/publication/344551949_Deformable_DETR_Deformable_Transformers_for_End-to-End_Object_Detection)",
+      "parsed": {
+        "doi": null,
+        "url": "https://www.researchgate.net/publication/344551949\\_Deformable\\_DETR\\_Deformable\\_Transformers\\_for\\_End-to-End\\_Object\\_Detection",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Deformable DETR: Deformable Transformers for End-to-End Object Detection | Request PDF \\- ResearchGate,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "102",
+      "line_start": 385,
+      "line_end": 385,
+      "raw_text": "102. DETRs with Collaborative Hybrid Assignments Training | by Tanya Soni \\- Medium, accessed October 31, 2025, [https://medium.com/@arithmancylabs/detrs-with-collaborative-hybrid-assignments-training-d3a507738a9d](https://medium.com/@arithmancylabs/detrs-with-collaborative-hybrid-assignments-training-d3a507738a9d)",
+      "parsed": {
+        "doi": null,
+        "url": "https://medium.com/@arithmancylabs/detrs-with-collaborative-hybrid-assignments-training-d3a507738a9d",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETRs with Collaborative Hybrid Assignments Training | by Tanya Soni \\- Medium,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "103",
+      "line_start": 386,
+      "line_end": 386,
+      "raw_text": "103. DETRs with Collaborative Hybrid Assignments Training \\- CVF Open Access, accessed October 31, 2025, [https://openaccess.thecvf.com/content/ICCV2023/papers/Zong\\_DETRs\\_with\\_Collaborative\\_Hybrid\\_Assignments\\_Training\\_ICCV\\_2023\\_paper.pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_DETRs_with_Collaborative_Hybrid_Assignments_Training_ICCV_2023_paper.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://openaccess.thecvf.com/content/ICCV2023/papers/Zong\\_DETRs\\_with\\_Collaborative\\_Hybrid\\_Assignments\\_Training\\_ICCV\\_2023\\_paper.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "DETRs with Collaborative Hybrid Assignments Training \\- CVF Open Access,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "104",
+      "line_start": 387,
+      "line_end": 387,
+      "raw_text": "104. Co-DETR Object Detection Model: What is, How to Use \\- Roboflow, accessed October 31, 2025, [https://roboflow.com/model/co-detr](https://roboflow.com/model/co-detr)",
+      "parsed": {
+        "doi": null,
+        "url": "https://roboflow.com/model/co-detr",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Co-DETR Object Detection Model: What is, How to Use \\- Roboflow,",
+        "author_guess": null
+      }
+    },
+    {
+      "ref_id": "105",
+      "line_start": 388,
+      "line_end": 388,
+      "raw_text": "105. Enhancing DETRs for Small Object Detection via Multi-Scale Refinement and Query-Aided Mining \\- GitHub, accessed October 31, 2025, [https://raw.githubusercontent.com/mlresearch/v260/main/assets/fu25a/fu25a.pdf](https://raw.githubusercontent.com/mlresearch/v260/main/assets/fu25a/fu25a.pdf)",
+      "parsed": {
+        "doi": null,
+        "url": "https://raw.githubusercontent.com/mlresearch/v260/main/assets/fu25a/fu25a.pdf",
+        "arxiv": null,
+        "year": null,
+        "title_guess": "Enhancing DETRs for Small Object Detection via Multi-Scale Refinement and Query-Aided Mining \\- GitHub,",
+        "author_guess": null
+      }
+    }
+  ]
+}
